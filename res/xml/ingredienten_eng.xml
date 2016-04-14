@@ -1,0 +1,1122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ingredienten>
+    <ingredient id="1" name="alfa amylase B" enummer="" moslims="0" />
+    <ingredient id="2" name="amyloglucosidase" enummer="" moslims="0" />
+    <ingredient id="3" name="cellulase" enummer="" moslims="0" />
+    <ingredient id="4" name="chymosine" enummer="" moslims="0" />
+    <ingredient id="5" name="protein splitting enzyme" enummer="" moslims="0" />
+    <ingredient id="6" name="enzymes (general)" enummer="" moslims="0" />
+    <ingredient id="7" name="galactosidase" enummer="" moslims="0" />
+    <ingredient id="8" name="glucanase" enummer="" moslims="0" />
+    <ingredient id="9" name="gluco-amylase" enummer="" moslims="0" />
+    <ingredient id="10" name="glucose-isomerase" enummer="" moslims="0" />
+    <ingredient id="11" name="glucose-oxidase" enummer="" moslims="0" />
+    <ingredient id="12" name="inulinase" enummer="" moslims="0" />
+    <ingredient id="13" name="invertase" enummer="1103" moslims="0" />
+    <ingredient id="14" name="carbohydrate splitting enzymes" enummer="" moslims="0" />
+    <ingredient id="15" name="lactase" enummer="" moslims="0" />
+    <ingredient id="16" name="lebrennet" enummer="" moslims="0" />
+    <ingredient id="17" name="lipase" enummer="" moslims="0" />
+    <ingredient id="18" name="lipoxygenase" enummer="" moslims="0" />
+    <ingredient id="19" name="lysozym" enummer="1105" moslims="0" />
+    <ingredient id="20" name="microbial rennet" enummer="" moslims="0" />
+    <ingredient id="22" name="malt extract" enummer="" moslims="0" />
+    <ingredient id="23" name="pectinase" enummer="" moslims="0" />
+    <ingredient id="24" name="pentosanase" enummer="" moslims="0" />
+    <ingredient id="25" name="protease" enummer="" moslims="0" />
+    <ingredient id="26" name="tannase" enummer="" moslims="0" />
+    <ingredient id="27" name="fat splitting enzymes" enummer="" moslims="0" />
+    <ingredient id="28" name="xylanase" enummer="" moslims="0" />
+    <ingredient id="29" name="starch splitting enzymes" enummer="" moslims="0" />
+    <ingredient id="30" name="allurared AC" enummer="129" moslims="0" />
+    <ingredient id="31" name="aluminium" enummer="173" moslims="0" />
+    <ingredient id="32" name="amaranth" enummer="123" moslims="0" />
+    <ingredient id="33" name="anthocyaninen" enummer="163" moslims="0" />
+    <ingredient id="34" name="azorubine" enummer="122" moslims="0" />
+    <ingredient id="35" name="beet red" enummer="162" moslims="0" />
+    <ingredient id="36" name="blood plasma" enummer="" moslims="1" />
+    <ingredient id="37" name="blood powder" enummer="" moslims="1" />
+    <ingredient id="38" name="brilliant blue FCF" enummer="133" moslims="0" />
+    <ingredient id="39" name="brilliant black BN" enummer="151" moslims="0" />
+    <ingredient id="40" name="black PN" enummer="151" moslims="0" />
+    <ingredient id="41" name="brown FK" enummer="154" moslims="0" />
+    <ingredient id="42" name="brown HT" enummer="155" moslims="0" />
+    <ingredient id="43" name="calcium carbonates" enummer="170" moslims="0" />
+    <ingredient id="44" name="carbo medicinalis vegetabilis" enummer="153" moslims="0" />
+    <ingredient id="45" name="crimson" enummer="122" moslims="0" />
+    <ingredient id="46" name="carotenoids" enummer="160" moslims="0" />
+    <ingredient id="47" name="annatto" enummer="160b" moslims="0" />
+    <ingredient id="48" name="norbixine" enummer="160b" moslims="0" />
+    <ingredient id="49" name="apocarotene-esters" enummer="160" moslims="0" />
+    <ingredient id="50" name="apocarotenal" enummer="160" moslims="0" />
+    <ingredient id="51" name="beta-apo-8'-carotenal (C30)" enummer="160e" moslims="0" />
+    <ingredient id="53" name="carotene (mixed)" enummer="" moslims="0" />
+    <ingredient id="54" name="gamma carotene" enummer="160a" moslims="0" />
+    <ingredient id="55" name="ethylester of beta-apo-8'-caroteneacid" enummer="160f" moslims="0" />
+    <ingredient id="57" name="green S" enummer="142" moslims="0" />
+    <ingredient id="58" name="lycopene" enummer="160d" moslims="0" />
+    <ingredient id="59" name="paprika-extract" enummer="160c" moslims="0" />
+    <ingredient id="60" name="capsorubine" enummer="160c" moslims="0" />
+    <ingredient id="61" name="chinoline yellow" enummer="104" moslims="0" />
+    <ingredient id="62" name="chlorophylles" enummer="140" moslims="0" />
+    <ingredient id="64" name="cochineal" enummer="120" moslims="1" />
+    <ingredient id="65" name="carmine" enummer="120" moslims="1" />
+    <ingredient id="66" name="curcumine" enummer="100" moslims="0" />
+    <ingredient id="67" name="erytrosine" enummer="127" moslims="0" />
+    <ingredient id="68" name="gold" enummer="175" moslims="0" />
+    <ingredient id="70" name="hemoglobine" enummer="" moslims="0" />
+    <ingredient id="71" name="iron oxides" enummer="" moslims="0" />
+    <ingredient id="73" name="indigotine" enummer="132" moslims="0" />
+    <ingredient id="74" name="caramels" enummer="150" moslims="0" />
+    <ingredient id="75" name="alkali-sulphite caramel" enummer="150b" moslims="0" />
+    <ingredient id="77" name="ammonia caramel" enummer="150c" moslims="0" />
+    <ingredient id="79" name="caramel" enummer="150a" moslims="0" />
+    <ingredient id="80" name="sulphite-ammonia caramel" enummer="150d" moslims="0" />
+    <ingredient id="82" name="dyes (general)" enummer="" moslims="0" />
+    <ingredient id="83" name="copper complexes of chlorophylles" enummer="" moslims="0" />
+    <ingredient id="84" name="chlorophyllins" enummer="140" moslims="0" />
+    <ingredient id="85" name="litholrubine BK" enummer="180" moslims="0" />
+    <ingredient id="86" name="luteïne" enummer="" moslims="0" />
+    <ingredient id="87" name="mocca" enummer="" moslims="0" />
+    <ingredient id="90" name="malt flour" enummer="" moslims="0" />
+    <ingredient id="91" name="patent blue V" enummer="131" moslims="0" />
+    <ingredient id="92" name="plant extracts" enummer="" moslims="0" />
+    <ingredient id="93" name="ponceau 4R" enummer="" moslims="0" />
+    <ingredient id="95" name="ribo flavine" enummer="101" moslims="0" />
+    <ingredient id="96" name="red 2G" enummer="128" moslims="0" />
+    <ingredient id="97" name="tartrazine" enummer="102" moslims="0" />
+    <ingredient id="98" name="titanium dioxide" enummer="171" moslims="0" />
+    <ingredient id="99" name="fruit extracts" enummer="" moslims="0" />
+    <ingredient id="100" name="xanthophyls" enummer="161" moslims="0" />
+    <ingredient id="101" name="canta xanthine" enummer="161g" moslims="0" />
+    <ingredient id="102" name="flavo xanthine" enummer="" moslims="0" />
+    <ingredient id="103" name="krypto xanthine" enummer="" moslims="0" />
+    <ingredient id="105" name="rhodo xanthine" enummer="" moslims="0" />
+    <ingredient id="106" name="rubi xanthine" enummer="" moslims="0" />
+    <ingredient id="107" name="violo xanthine" enummer="" moslims="0" />
+    <ingredient id="108" name="silver" enummer="174" moslims="0" />
+    <ingredient id="109" name="sun yellow FCF" enummer="110" moslims="0" />
+    <ingredient id="111" name="acetates" enummer="" moslims="0" />
+    <ingredient id="112" name="calcium acetate" enummer="263" moslims="0" />
+    <ingredient id="113" name="cellulose acetate" enummer="" moslims="0" />
+    <ingredient id="114" name="potassium acetate" enummer="261" moslims="0" />
+    <ingredient id="115" name="sodium acetate" enummer="262" moslims="0" />
+    <ingredient id="116" name="vinegar" enummer="260" moslims="0" />
+    <ingredient id="117" name="benzoates" enummer="" moslims="0" />
+    <ingredient id="118" name="calcium benzoate" enummer="213" moslims="0" />
+    <ingredient id="119" name="ethyl-p-hydroxy benzoate" enummer="214" moslims="0" />
+    <ingredient id="122" name="sodium salt of ethyl-p-hydroxy benzoate" enummer="215" moslims="0" />
+    <ingredient id="123" name="potassium benzoate" enummer="212" moslims="0" />
+    <ingredient id="124" name="methyl-p-hydroxy benzoate" enummer="219" moslims="0" />
+    <ingredient id="127" name="sodium salt of methyl-p-hydroxy benzoate" enummer="219" moslims="0" />
+    <ingredient id="128" name="sodium benzoate" enummer="211" moslims="0" />
+    <ingredient id="129" name="propyl-p-hydroxy benzoate" enummer="216" moslims="0" />
+    <ingredient id="131" name="sodium salt of propyl-p-hydroxy benzoate" enummer="217" moslims="0" />
+    <ingredient id="133" name="benzoic acid" enummer="210" moslims="0" />
+    <ingredient id="134" name="boric acid" enummer="284" moslims="0" />
+    <ingredient id="135" name="cake stabilizers" enummer="" moslims="0" />
+    <ingredient id="136" name="preservatives (general)" enummer="" moslims="0" />
+    <ingredient id="138" name="dimethyldicarbonate" enummer="242" moslims="0" />
+    <ingredient id="139" name="enzymes" enummer="" moslims="0" />
+    <ingredient id="140" name="hexamethyleentetramine" enummer="239" moslims="0" />
+    <ingredient id="141" name="potassium nitrate" enummer="252" moslims="0" />
+    <ingredient id="142" name="potassium nitrite" enummer="249" moslims="0" />
+    <ingredient id="143" name="kooldioxide" enummer="290" moslims="0" />
+    <ingredient id="144" name="natamycine" enummer="235" moslims="0" />
+    <ingredient id="145" name="sodium nitrate" enummer="251" moslims="0" />
+    <ingredient id="146" name="sodium nitrite" enummer="250" moslims="0" />
+    <ingredient id="147" name="sodium orthofenylfenol" enummer="232" moslims="0" />
+    <ingredient id="148" name="sodium tetraborate" enummer="285" moslims="0" />
+    <ingredient id="150" name="nisine" enummer="234" moslims="0" />
+    <ingredient id="151" name="orthofenylfenol" enummer="231" moslims="0" />
+    <ingredient id="152" name="propionates" enummer="" moslims="0" />
+    <ingredient id="153" name="calcium propionate" enummer="282" moslims="0" />
+    <ingredient id="154" name="potassium propionate" enummer="283" moslims="0" />
+    <ingredient id="155" name="sodium propionate" enummer="281" moslims="0" />
+    <ingredient id="156" name="propion acid" enummer="280" moslims="0" />
+    <ingredient id="157" name="sorbates" enummer="" moslims="0" />
+    <ingredient id="158" name="calcium sorbate" enummer="203" moslims="0" />
+    <ingredient id="159" name="potassium sorbate" enummer="202" moslims="0" />
+    <ingredient id="160" name="sorbine acid" enummer="200" moslims="0" />
+    <ingredient id="161" name="sulphites" enummer="" moslims="0" />
+    <ingredient id="162" name="calcium bisulphite" enummer="227" moslims="0" />
+    <ingredient id="163" name="calcium hydrogen sulphite" enummer="227" moslims="0" />
+    <ingredient id="164" name="calcium sulphite" enummer="226" moslims="0" />
+    <ingredient id="165" name="potassium bisulphite" enummer="228" moslims="0" />
+    <ingredient id="166" name="potassium metabisulphite" enummer="224" moslims="0" />
+    <ingredient id="167" name="sodium bisulphite" enummer="222" moslims="0" />
+    <ingredient id="168" name="sodium metabisulphite" enummer="223" moslims="0" />
+    <ingredient id="169" name="sodium sulphite" enummer="221" moslims="0" />
+    <ingredient id="170" name="thiabendazole" enummer="233" moslims="0" />
+    <ingredient id="171" name="whey-protein products" enummer="" moslims="0" />
+    <ingredient id="172" name="salt" enummer="" moslims="0" />
+    <ingredient id="173" name="sulfic dioxide (S02)" enummer="220" moslims="0" />
+    <ingredient id="174" name="antioxydants (general)" enummer="" moslims="0" />
+    <ingredient id="175" name="ascorbates" enummer="" moslims="0" />
+    <ingredient id="176" name="calcium ascorbate" enummer="302" moslims="0" />
+    <ingredient id="177" name="sodium ascorbate" enummer="301" moslims="0" />
+    <ingredient id="178" name="sodium isoascorbate" enummer="" moslims="0" />
+    <ingredient id="179" name="fat acid esters of ascorbine acid" enummer="" moslims="0" />
+    <ingredient id="181" name="ascorbine acid" enummer="300" moslims="0" />
+    <ingredient id="182" name="butylhydroxyanisol (BHA)" enummer="320" moslims="0" />
+    <ingredient id="183" name="butylhydroxytoluene (BHT)" enummer="321" moslims="0" />
+    <ingredient id="185" name="mixing cutter" enummer="" moslims="0" />
+    <ingredient id="186" name="erythorbine acid" enummer="315" moslims="0" />
+    <ingredient id="187" name="gallates" enummer="" moslims="0" />
+    <ingredient id="188" name="dodecyl gallate" enummer="312" moslims="0" />
+    <ingredient id="189" name="octyl gallate" enummer="311" moslims="0" />
+    <ingredient id="190" name="propyl gallate" enummer="310" moslims="0" />
+    <ingredient id="191" name="sodium erythorbate" enummer="316" moslims="0" />
+    <ingredient id="192" name="antioxidant extracts" enummer="" moslims="0" />
+    <ingredient id="193" name="tocopheroles" enummer="" moslims="0" />
+    <ingredient id="194" name="alfa-tocopherole" enummer="307" moslims="0" />
+    <ingredient id="195" name="delta-tocopherole" enummer="309" moslims="0" />
+    <ingredient id="196" name="gamma-tocopherole" enummer="308" moslims="0" />
+    <ingredient id="197" name="tocopherole-rich extracts" enummer="306" moslims="0" />
+    <ingredient id="198" name="ammonium phosphatides" enummer="442" moslims="1" />
+    <ingredient id="201" name="bifenyl" enummer="230" moslims="0" />
+    <ingredient id="204" name="calcium stearoyl-2-lactylate" enummer="482" moslims="1" />
+    <ingredient id="205" name="carbo xymethyl cellulose" enummer="466" moslims="0" />
+    <ingredient id="206" name="sodium carboxymethyl cellulose" enummer="466" moslims="0" />
+    <ingredient id="207" name="vernet sodium carboxymethyl cellulose" enummer="468" moslims="0" />
+    <ingredient id="208" name="enzymatic hydrolated carbo xymethyl cellulose" enummer="469" moslims="0" />
+    <ingredient id="209" name="difenyl" enummer="230" moslims="0" />
+    <ingredient id="210" name="vernet carbo xymethyl cellulose" enummer="" moslims="0" />
+    <ingredient id="212" name="caseïnates" enummer="" moslims="0" />
+    <ingredient id="214" name="lemon acid esters" enummer="" moslims="0" />
+    <ingredient id="216" name="DAWE-ester" enummer="" moslims="0" />
+    <ingredient id="217" name="egg powder" enummer="" moslims="0" />
+    <ingredient id="218" name="egg products" enummer="" moslims="0" />
+    <ingredient id="219" name="protein hydrolysates" enummer="" moslims="0" />
+    <ingredient id="220" name="proteins" enummer="" moslims="0" />
+    <ingredient id="221" name="emulsifiers (general)" enummer="" moslims="0" />
+    <ingredient id="222" name="phosphates" enummer="" moslims="0" />
+    <ingredient id="223" name="calciumphosphates" enummer="341" moslims="0" />
+    <ingredient id="224" name="diosfates" enummer="450" moslims="0" />
+    <ingredient id="225" name="potassium phosphates" enummer="340" moslims="0" />
+    <ingredient id="226" name="sodium aluminium phosphate (basic)" enummer="541" moslims="0" />
+    <ingredient id="227" name="sodium aluminium phosphate (acid)" enummer="541" moslims="0" />
+    <ingredient id="228" name="sodium phosphates" enummer="339" moslims="0" />
+    <ingredient id="229" name="polyphosphates" enummer="452" moslims="0" />
+    <ingredient id="230" name="triphosphates" enummer="451" moslims="0" />
+    <ingredient id="231" name="lecithine" enummer="322" moslims="0" />
+    <ingredient id="232" name="milk proteins" enummer="" moslims="0" />
+    <ingredient id="233" name="mono- and diglycerides of fat acids" enummer="471" moslims="1" />
+    <ingredient id="237" name="mono- and diglycerides of fat acids esterified with vinegar acid" enummer="472a" moslims="1" />
+    <ingredient id="238" name="mono- and diglycerides of fat acids esterified with vinegar acid and wine stone acid" enummer="472f" moslims="1" />
+    <ingredient id="240" name="mono- and diglycerides of fat acids esterified with lemon acid" enummer="472c" moslims="1" />
+    <ingredient id="241" name="mono- and diglycerides of fat acids esterified with milk acid" enummer="472b" moslims="1" />
+    <ingredient id="242" name="mono- and diglycerides of fat acids esterified with monoacetyl- and diacetyl wine stone acid" enummer="472e" moslims="1" />
+    <ingredient id="244" name="mono- and diglycerides of fat acids esterified with wine stone acid" enummer="472d" moslims="1" />
+    <ingredient id="245" name="sodium staroyl-2-lactylate" enummer="481" moslims="1" />
+    <ingredient id="246" name="polyglycerol esters of fat acids" enummer="475" moslims="1" />
+    <ingredient id="248" name="polyglycerol polyricinoleate" enummer="476" moslims="1" />
+    <ingredient id="249" name="polyoxyethylene sorbitan of fatty esters" enummer="" moslims="1" />
+    <ingredient id="251" name="polyoxyethylene-20-sorbitanemonolaurate" enummer="432" moslims="1" />
+    <ingredient id="253" name="polysorbate 20" enummer="432" moslims="1" />
+    <ingredient id="254" name="polyoxyethylene-20-sorbitanemono-oleate" enummer="433" moslims="1" />
+    <ingredient id="256" name="polysorbate 80" enummer="433" moslims="1" />
+    <ingredient id="257" name="polyoxyethylene-20-sorbitane-monopalmitate" enummer="434" moslims="1" />
+    <ingredient id="258" name="polysorbate 40" enummer="434" moslims="1" />
+    <ingredient id="260" name="polyoxyethylene-20-sorbitane-monostearate" enummer="435" moslims="1" />
+    <ingredient id="261" name="polysorbate 60" enummer="435" moslims="1" />
+    <ingredient id="263" name="polyoxyethylene-20-sorbitane-tristearate" enummer="436" moslims="1" />
+    <ingredient id="265" name="polysorbate 65" enummer="436" moslims="1" />
+    <ingredient id="266" name="polyoxyethylene-40-stearate" enummer="431" moslims="1" />
+    <ingredient id="268" name="polyvinyl polypyrrolidon" enummer="1202" moslims="0" />
+    <ingredient id="269" name="polyvinylpyrrolidon" enummer="1201" moslims="0" />
+    <ingredient id="270" name="propylene glycol esters of fatty acids" enummer="477" moslims="1" />
+    <ingredient id="272" name="soy flour" enummer="" moslims="0" />
+    <ingredient id="273" name="soy protein" enummer="" moslims="0" />
+    <ingredient id="274" name="sorbitane of fatty esters" enummer="" moslims="0" />
+    <ingredient id="275" name="sorbitane monolaurate" enummer="493" moslims="1" />
+    <ingredient id="276" name="sorbitane mono-oleate" enummer="494" moslims="1" />
+    <ingredient id="277" name="sorbitane monopalmitate" enummer="495" moslims="1" />
+    <ingredient id="279" name="sorbitane monostearate" enummer="491" moslims="1" />
+    <ingredient id="280" name="sorbitane tristearate" enummer="492" moslims="1" />
+    <ingredient id="281" name="injection brines" enummer="" moslims="0" />
+    <ingredient id="282" name="stearates" enummer="" moslims="1" />
+    <ingredient id="283" name="sucroglycerides" enummer="474" moslims="1" />
+    <ingredient id="284" name="sucrose-fat acid esters" enummer="473" moslims="1" />
+    <ingredient id="285" name="wheat-protein" enummer="" moslims="0" />
+    <ingredient id="286" name="thermally oxidized soy oil (obtained by reaction with mono- and diglycerides of fat acids)" enummer="479b" moslims="1" />
+    <ingredient id="295" name="magnesium salts of fat acids" enummer="470b" moslims="1" />
+    <ingredient id="297" name="sodium salts of fat acids" enummer="470a" moslims="1" />
+    <ingredient id="298" name="calcium salts of fat acids" enummer="470a" moslims="1" />
+    <ingredient id="300" name="calcium chloride" enummer="509" moslims="0" />
+    <ingredient id="310" name="phosphor acid" enummer="338" moslims="0" />
+    <ingredient id="311" name="melting salts (general)" enummer="" moslims="0" />
+    <ingredient id="312" name="potato flour" enummer="" moslims="0" />
+    <ingredient id="313" name="potato flour derivatives" enummer="" moslims="0" />
+    <ingredient id="314" name="agar-agar" enummer="406" moslims="0" />
+    <ingredient id="315" name="alginates" enummer="" moslims="0" />
+    <ingredient id="316" name="1,2-propyleenglycol alginate" enummer="405" moslims="0" />
+    <ingredient id="318" name="ammonium alginate" enummer="403" moslims="0" />
+    <ingredient id="319" name="calcium alginate" enummer="404" moslims="0" />
+    <ingredient id="320" name="potassium alginate" enummer="402" moslims="0" />
+    <ingredient id="321" name="sodium alginate" enummer="401" moslims="0" />
+    <ingredient id="322" name="algine acid" enummer="400" moslims="0" />
+    <ingredient id="331" name="carrageenan" enummer="407" moslims="0" />
+    <ingredient id="332" name="cellulose" enummer="460" moslims="0" />
+    <ingredient id="334" name="gum" enummer="" moslims="0" />
+    <ingredient id="335" name="arabic gum" enummer="414" moslims="0" />
+    <ingredient id="336" name="gellaan gom" enummer="418" moslims="0" />
+    <ingredient id="337" name="guarpit flour" enummer="412" moslims="0" />
+    <ingredient id="338" name="karaya gum" enummer="416" moslims="0" />
+    <ingredient id="339" name="konjac" enummer="425" moslims="0" />
+    <ingredient id="340" name="tara gom" enummer="417" moslims="0" />
+    <ingredient id="341" name="xanthaan gom" enummer="415" moslims="0" />
+    <ingredient id="342" name="hydroxypropyidistarch phosphate" enummer="1442" moslims="0" />
+    <ingredient id="344" name="hydroxypropyl cellulose" enummer="463" moslims="0" />
+    <ingredient id="345" name="hydroxypropylmethyl cellulose" enummer="464" moslims="0" />
+    <ingredient id="347" name="hydroxypropyl starch" enummer="1440" moslims="0" />
+    <ingredient id="348" name="locust bean flour" enummer="410" moslims="0" />
+    <ingredient id="350" name="flour (heat treated)" enummer="" moslims="0" />
+    <ingredient id="352" name="pectins N" enummer="440" moslims="0" />
+    <ingredient id="355" name="tragacanth" enummer="413" moslims="0" />
+    <ingredient id="357" name="thickeners (general)" enummer="" moslims="0" />
+    <ingredient id="359" name="starch" enummer="" moslims="0" />
+    <ingredient id="360" name="starch derivatives" enummer="" moslims="0" />
+    <ingredient id="362" name="hedging jelly" enummer="" moslims="0" />
+    <ingredient id="372" name="aspic powder" enummer="" moslims="0" />
+    <ingredient id="381" name="CMC" enummer="" moslims="0" />
+    <ingredient id="385" name="eucheumawier (processed)" enummer="407a" moslims="0" />
+    <ingredient id="396" name="furcelleraan" enummer="408" moslims="0" />
+    <ingredient id="397" name="gelatin" enummer="" moslims="1" />
+    <ingredient id="398" name="gelling agents (general)" enummer="" moslims="0" />
+    <ingredient id="401" name="hydroxypropyldistarch phosphate" enummer="1442" moslims="0" />
+    <ingredient id="424" name="carbamide" enummer="927b" moslims="0" />
+    <ingredient id="433" name="caseïne" enummer="" moslims="0" />
+    <ingredient id="449" name="glycerolesters of wood rosin" enummer="445" moslims="0" />
+    <ingredient id="465" name="inulin" enummer="" moslims="0" />
+    <ingredient id="467" name="potassium chlorides" enummer="508" moslims="0" />
+    <ingredient id="469" name="flour improvers" enummer="" moslims="0" />
+    <ingredient id="472" name="quillaja-extract" enummer="999" moslims="0" />
+    <ingredient id="475" name="sorbitol" enummer="420" moslims="0" />
+    <ingredient id="477" name="stabilizers (general)" enummer="" moslims="0" />
+    <ingredient id="478" name="stabilizers for water ice" enummer="" moslims="0" />
+    <ingredient id="479" name="stabilizers for cream ice" enummer="" moslims="0" />
+    <ingredient id="481" name="sucrose acetateisobutyrate" enummer="444" moslims="0" />
+    <ingredient id="482" name="sulphates" enummer="" moslims="0" />
+    <ingredient id="483" name="aluminium ammonium sulphate" enummer="523" moslims="0" />
+    <ingredient id="485" name="aluminium potassium sulphate" enummer="522" moslims="0" />
+    <ingredient id="486" name="aluminium sodium sulphate" enummer="521" moslims="0" />
+    <ingredient id="488" name="aluminium sulphate" enummer="520" moslims="0" />
+    <ingredient id="489" name="ammonium sulphate" enummer="517" moslims="0" />
+    <ingredient id="490" name="potassium sulphate" enummer="515" moslims="0" />
+    <ingredient id="491" name="sodium sulphates" enummer="514" moslims="0" />
+    <ingredient id="493" name="tin chloride" enummer="512" moslims="0" />
+    <ingredient id="496" name="whey powder" enummer="" moslims="0" />
+    <ingredient id="499" name="calcium-5'-ribonucleotides" enummer="634" moslims="1" />
+    <ingredient id="501" name="lemon acid" enummer="330" moslims="0" />
+    <ingredient id="502" name="disodium-(5')-ribonucleotides" enummer="" moslims="0" />
+    <ingredient id="505" name="yeast" enummer="" moslims="0" />
+    <ingredient id="506" name="yeast autolysate" enummer="" moslims="0" />
+    <ingredient id="507" name="glutamates" enummer="" moslims="0" />
+    <ingredient id="508" name="calcium diglutamate" enummer="623" moslims="0" />
+    <ingredient id="509" name="magnesium diglutamate" enummer="625" moslims="0" />
+    <ingredient id="511" name="monoammonium glutamate" enummer="624" moslims="0" />
+    <ingredient id="513" name="monopotassium glutamate" enummer="622" moslims="0" />
+    <ingredient id="514" name="monosodium glutamate" enummer="621" moslims="0" />
+    <ingredient id="516" name="glutamine acid" enummer="620" moslims="0" />
+    <ingredient id="517" name="guanylates" enummer="" moslims="0" />
+    <ingredient id="518" name="calcium guanylate" enummer="629" moslims="0" />
+    <ingredient id="519" name="potassium guanylate" enummer="628" moslims="0" />
+    <ingredient id="520" name="sodium guanylate" enummer="627" moslims="0" />
+    <ingredient id="521" name="guanyl acid" enummer="626" moslims="0" />
+    <ingredient id="522" name="inosinates" enummer="" moslims="1" />
+    <ingredient id="523" name="calcium inosinate" enummer="633" moslims="1" />
+    <ingredient id="524" name="dipotassium inosinate" enummer="632" moslims="1" />
+    <ingredient id="525" name="disodium inosinate" enummer="631" moslims="1" />
+    <ingredient id="526" name="inosine acid" enummer="630" moslims="1" />
+    <ingredient id="527" name="milk acid" enummer="270" moslims="0" />
+    <ingredient id="528" name="oligo fructose" enummer="" moslims="0" />
+    <ingredient id="529" name="flavor enhancers (general)" enummer="" moslims="0" />
+    <ingredient id="533" name="cellolose-acetate" enummer="" moslims="0" />
+    <ingredient id="536" name="adipine acid" enummer="255" moslims="0" />
+    <ingredient id="537" name="apple acid" enummer="296" moslims="0" />
+    <ingredient id="539" name="barnstene acid" enummer="363" moslims="0" />
+    <ingredient id="540" name="citrates" enummer="" moslims="0" />
+    <ingredient id="541" name="calcium citrates" enummer="333" moslims="0" />
+    <ingredient id="542" name="potassium citrates" enummer="332" moslims="0" />
+    <ingredient id="543" name="sodium citrates" enummer="331" moslims="0" />
+    <ingredient id="544" name="triammonium citrate" enummer="380" moslims="0" />
+    <ingredient id="547" name="fumar acid" enummer="297" moslims="0" />
+    <ingredient id="548" name="fumar acid (gecoat)" enummer="297" moslims="0" />
+    <ingredient id="549" name="gluconates" enummer="" moslims="0" />
+    <ingredient id="550" name="calcium gluconate" enummer="578" moslims="0" />
+    <ingredient id="551" name="potassium gluconate" enummer="577" moslims="0" />
+    <ingredient id="552" name="sodium gluconate" enummer="576" moslims="0" />
+    <ingredient id="553" name="glucono-delta-lacton" enummer="" moslims="0" />
+    <ingredient id="555" name="glucon acid" enummer="574" moslims="0" />
+    <ingredient id="556" name="lactates" enummer="" moslims="0" />
+    <ingredient id="557" name="calcium lactate" enummer="327" moslims="0" />
+    <ingredient id="558" name="potassium lactate" enummer="326" moslims="0" />
+    <ingredient id="559" name="sodium lactate" enummer="325" moslims="0" />
+    <ingredient id="561" name="tartrates" enummer="" moslims="0" />
+    <ingredient id="562" name="calcium tartrates" enummer="354" moslims="0" />
+    <ingredient id="563" name="potassium tartrates" enummer="336" moslims="0" />
+    <ingredient id="564" name="sodium potassium tartrate" enummer="337" moslims="0" />
+    <ingredient id="565" name="sodium tartrates" enummer="335" moslims="0" />
+    <ingredient id="566" name="stearyl tartrate" enummer="483" moslims="1" />
+    <ingredient id="567" name="acids (general)" enummer="" moslims="0" />
+    <ingredient id="568" name="acids (gecoat)" enummer="" moslims="0" />
+    <ingredient id="569" name="wine stone acid" enummer="334" moslims="0" />
+    <ingredient id="575" name="ammonium hydroxide" enummer="527" moslims="0" />
+    <ingredient id="585" name="calcium hydroxide" enummer="526" moslims="0" />
+    <ingredient id="586" name="calcium oxide" enummer="529" moslims="0" />
+    <ingredient id="596" name="diphosphate" enummer="450" moslims="0" />
+    <ingredient id="604" name="glycine" enummer="640" moslims="1" />
+    <ingredient id="605" name="sodium diacetate" enummer="262" moslims="0" />
+    <ingredient id="606" name="potassium adipate" enummer="357" moslims="0" />
+    <ingredient id="607" name="potassium hydroxide" enummer="525" moslims="0" />
+    <ingredient id="612" name="magnesium chloride" enummer="511" moslims="0" />
+    <ingredient id="613" name="magnesium hydroxide" enummer="528" moslims="0" />
+    <ingredient id="614" name="magnesium oxide" enummer="530" moslims="0" />
+    <ingredient id="615" name="malates" enummer="" moslims="0" />
+    <ingredient id="616" name="calcium malates" enummer="352" moslims="0" />
+    <ingredient id="617" name="potassium malate" enummer="351" moslims="0" />
+    <ingredient id="618" name="sodium malates" enummer="350" moslims="0" />
+    <ingredient id="620" name="sodium adipate" enummer="356" moslims="0" />
+    <ingredient id="621" name="sodium hydroxide" enummer="524" moslims="0" />
+    <ingredient id="622" name="maturation medium" enummer="" moslims="0" />
+    <ingredient id="625" name="calcium tartrate" enummer="354" moslims="0" />
+    <ingredient id="631" name="salt acid" enummer="507" moslims="0" />
+    <ingredient id="632" name="acid controllers (general)" enummer="" moslims="0" />
+    <ingredient id="634" name="sulfic acid" enummer="513" moslims="0" />
+    <ingredient id="635" name="anticaking agents (general)" enummer="" moslims="0" />
+    <ingredient id="637" name="calcium carbonate" enummer="170" moslims="0" />
+    <ingredient id="639" name="calcium ferrocyanide" enummer="538" moslims="0" />
+    <ingredient id="650" name="potassium ferrocyanide" enummer="536" moslims="0" />
+    <ingredient id="651" name="silica silicum dioxide" enummer="551" moslims="0" />
+    <ingredient id="652" name="sodium ferro cyanide" enummer="535" moslims="0" />
+    <ingredient id="653" name="silicates" enummer="" moslims="0" />
+    <ingredient id="654" name="bentonite" enummer="558" moslims="0" />
+    <ingredient id="655" name="calcium aluminium silicate" enummer="556" moslims="0" />
+    <ingredient id="657" name="calcium silicate" enummer="552" moslims="0" />
+    <ingredient id="658" name="potassium aluminium silicate" enummer="555" moslims="0" />
+    <ingredient id="659" name="kaolin aluminium silicate" enummer="559" moslims="0" />
+    <ingredient id="660" name="magnesium silicate" enummer="553a" moslims="0" />
+    <ingredient id="661" name="magnesium trisilicate" enummer="553a" moslims="0" />
+    <ingredient id="661" name="talc" enummer="553b" moslims="0" />
+    <ingredient id="663" name="sodium aluminium silicate" enummer="554" moslims="0" />
+    <ingredient id="665" name="silicium dioxide" enummer="551" moslims="0" />
+    <ingredient id="668" name="potato starch derivatives" enummer="" moslims="0" />
+    <ingredient id="669" name="distarch phosphate" enummer="1412" moslims="0" />
+    <ingredient id="670" name="acetylated distarch adipate" enummer="1422" moslims="0" />
+    <ingredient id="672" name="acetylated distarch phosphate" enummer="1414" moslims="0" />
+    <ingredient id="674" name="acetylated starch" enummer="1420" moslims="0" />
+    <ingredient id="675" name="phosphated distarch phosphate" enummer="1413" moslims="0" />
+    <ingredient id="677" name="monostarch phosphate" enummer="1410" moslims="0" />
+    <ingredient id="678" name="oxidized starch" enummer="1404" moslims="0" />
+    <ingredient id="680" name="starch sodium octenyl succinate" enummer="1450" moslims="0" />
+    <ingredient id="682" name="acesulfame" enummer="950" moslims="0" />
+    <ingredient id="683" name="aspartame" enummer="951" moslims="0" />
+    <ingredient id="684" name="cyclamic acid" enummer="952" moslims="0" />
+    <ingredient id="685" name="calcium salt of cyclamic acid" enummer="952" moslims="0" />
+    <ingredient id="686" name="fructose" enummer="" moslims="0" />
+    <ingredient id="687" name="isomalt" enummer="953" moslims="0" />
+    <ingredient id="688" name="lactitol" enummer="966" moslims="0" />
+    <ingredient id="689" name="maltitol" enummer="965" moslims="0" />
+    <ingredient id="690" name="mannitol" enummer="421" moslims="0" />
+    <ingredient id="691" name="neohesperidine-DC" enummer="959" moslims="0" />
+    <ingredient id="692" name="saccharine" enummer="954" moslims="0" />
+    <ingredient id="693" name="sacharine" enummer="954" moslims="0" />
+    <ingredient id="695" name="sucralose" enummer="" moslims="0" />
+    <ingredient id="696" name="thaumatine" enummer="957" moslims="0" />
+    <ingredient id="697" name="xylitol" enummer="967" moslims="0" />
+    <ingredient id="698" name="sweeteners (general)" enummer="" moslims="0" />
+    <ingredient id="699" name="baking powder" enummer="" moslims="0" />
+    <ingredient id="700" name="carbonates" enummer="" moslims="0" />
+    <ingredient id="701" name="ammonium carbonates" enummer="503" moslims="0" />
+    <ingredient id="702" name="potassium carbonates" enummer="501" moslims="0" />
+    <ingredient id="703" name="magnesium carbonates" enummer="504" moslims="0" />
+    <ingredient id="704" name="sodium carbonates" enummer="500" moslims="0" />
+    <ingredient id="705" name="sodium hydrogen carbonate" enummer="500" moslims="0" />
+    <ingredient id="717" name="carbon acid (CO2)" enummer="290" moslims="0" />
+    <ingredient id="719" name="anti-foaming agents (general)" enummer="" moslims="0" />
+    <ingredient id="720" name="dimethylpolysiloxaan" enummer="900" moslims="0" />
+    <ingredient id="721" name="dextrine" enummer="" moslims="0" />
+    <ingredient id="722" name="swipe protein" enummer="" moslims="0" />
+    <ingredient id="723" name="esters of montane nacid" enummer="912" moslims="0" />
+    <ingredient id="725" name="oxidized polyethylene wax" enummer="" moslims="0" />
+    <ingredient id="727" name="brighteners (general)" enummer="" moslims="0" />
+    <ingredient id="728" name="shellac" enummer="904" moslims="1" />
+    <ingredient id="729" name="wax" enummer="" moslims="0" />
+    <ingredient id="730" name="bees wax" enummer="901" moslims="0" />
+    <ingredient id="731" name="candellila was" enummer="902" moslims="0" />
+    <ingredient id="732" name="carnauba was" enummer="903" moslims="0" />
+    <ingredient id="733" name="microcrystalline wax" enummer="905" moslims="0" />
+    <ingredient id="736" name="aminoacids" enummer="" moslims="0" />
+    <ingredient id="745" name="bred improvers (general)" enummer="" moslims="0" />
+    <ingredient id="748" name="protein scysteine" enummer="920" moslims="1" />
+    <ingredient id="749" name="emulsifiers" enummer="" moslims="0" />
+    <ingredient id="760" name="glucose syrups" enummer="" moslims="0" />
+    <ingredient id="761" name="glutes" enummer="" moslims="0" />
+    <ingredient id="764" name="flour improvers (general)" enummer="" moslims="0" />
+    <ingredient id="780" name="ethylmethylcellulose" enummer="465" moslims="0" />
+    <ingredient id="782" name="gelling agents" enummer="" moslims="0" />
+    <ingredient id="784" name="gum (general)" enummer="" moslims="0" />
+    <ingredient id="791" name="methylcellulose" enummer="461" moslims="0" />
+    <ingredient id="792" name="dietary fiber" enummer="" moslims="0" />
+    <ingredient id="793" name="glycerol" enummer="422" moslims="0" />
+    <ingredient id="796" name="calcium disodium ethyleen diaminetetra acetate" enummer="385" moslims="0" />
+    <ingredient id="797" name="calcium disodium-EDTA" enummer="385" moslims="0" />
+    <ingredient id="799" name="calcium sulphate" enummer="516" moslims="0" />
+    <ingredient id="816" name="meta wine stone acid" enummer="353" moslims="0" />
+    <ingredient id="830" name="flour" enummer="" moslims="0" />
+    <ingredient id="831" name="polydextrose" enummer="1200" moslims="0" />
+    <ingredient id="834" name="fillers (general)" enummer="" moslims="0" />
+    <ingredient id="836" name="argon" enummer="938" moslims="0" />
+    <ingredient id="837" name="dinitric oxide" enummer="942" moslims="0" />
+    <ingredient id="838" name="helium" enummer="939" moslims="0" />
+    <ingredient id="839" name="carbon dioxide (CO2)" enummer="290" moslims="0" />
+    <ingredient id="840" name="nitrous oxide" enummer="942" moslims="0" />
+    <ingredient id="841" name="nitrogen (gas)" enummer="941" moslims="0" />
+    <ingredient id="842" name="oxygen" enummer="948" moslims="0" />
+    <ingredient id="843" name="application-oriented flavorings" enummer="" moslims="0" />
+    <ingredient id="844" name="application-oriented flavorings (gecoat)" enummer="" moslims="0" />
+    <ingredient id="845" name="flavorings for alcoholic beverages" enummer="" moslims="0" />
+    <ingredient id="848" name="liqueur" enummer="" moslims="1" />
+    <ingredient id="849" name="hop flavor" enummer="" moslims="0" />
+    <ingredient id="850" name="distilled flavor" enummer="" moslims="0" />
+    <ingredient id="851" name="wine flavor" enummer="" moslims="1" />
+    <ingredient id="852" name="flavorings for bakery products" enummer="" moslims="0" />
+    <ingredient id="855" name="flavorings for conserves" enummer="" moslims="0" />
+    <ingredient id="858" name="mushroom flavor" enummer="" moslims="0" />
+    <ingredient id="859" name="exotic vegetables flavor" enummer="" moslims="0" />
+    <ingredient id="860" name="green vegetables flavor" enummer="" moslims="0" />
+    <ingredient id="861" name="tomato flavor" enummer="" moslims="0" />
+    <ingredient id="862" name="onion flavor" enummer="" moslims="0" />
+    <ingredient id="863" name="carrot flavor" enummer="" moslims="0" />
+    <ingredient id="864" name="flavorings for consumption ice" enummer="" moslims="0" />
+    <ingredient id="865" name="flavorings for frozen desserts" enummer="" moslims="0" />
+    <ingredient id="869" name="flavorings for various products" enummer="" moslims="0" />
+    <ingredient id="872" name="flavorings for soft drinks" enummer="" moslims="0" />
+    <ingredient id="875" name="cola flavor" enummer="" moslims="0" />
+    <ingredient id="876" name="flavorings for extruded products" enummer="" moslims="0" />
+    <ingredient id="880" name="flavorings for jam and (fruit) jelly" enummer="" moslims="0" />
+    <ingredient id="884" name="flavorings for ready-made meals" enummer="" moslims="0" />
+    <ingredient id="888" name="flavorings for spices and seasonings" enummer="" moslims="0" />
+    <ingredient id="890" name="flavorings for microwave products" enummer="" moslims="0" />
+    <ingredient id="894" name="flavorings for poultry meat products" enummer="" moslims="0" />
+    <ingredient id="899" name="duck flavor" enummer="" moslims="0" />
+    <ingredient id="900" name="turkey flavor" enummer="" moslims="0" />
+    <ingredient id="901" name="chicken flavor" enummer="" moslims="0" />
+    <ingredient id="902" name="wild flavor" enummer="" moslims="1" />
+    <ingredient id="903" name="flavorings for powder mixes" enummer="" moslims="0" />
+    <ingredient id="906" name="flavorings for snacks" enummer="" moslims="0" />
+    <ingredient id="909" name="flavorings for tea" enummer="" moslims="0" />
+    <ingredient id="912" name="flavorings for UHT-products" enummer="" moslims="0" />
+    <ingredient id="915" name="flavorings for fish products" enummer="" moslims="0" />
+    <ingredient id="918" name="shellfish flavor" enummer="" moslims="0" />
+    <ingredient id="919" name="fish flavor" enummer="" moslims="0" />
+    <ingredient id="920" name="sea fish flavor" enummer="" moslims="0" />
+    <ingredient id="921" name="saltwater fish flavor" enummer="" moslims="0" />
+    <ingredient id="922" name="flavorings for meat products" enummer="" moslims="0" />
+    <ingredient id="923" name="fish flavor (smoked)" enummer="" moslims="0" />
+    <ingredient id="925" name="bacon flavor" enummer="" moslims="1" />
+    <ingredient id="926" name="ham flavor" enummer="" moslims="1" />
+    <ingredient id="927" name="lamsmeat flavor" enummer="" moslims="0" />
+    <ingredient id="928" name="calfsmeat flavor" enummer="" moslims="0" />
+    <ingredient id="929" name="liver flavor" enummer="" moslims="1" />
+    <ingredient id="930" name="beef flavor" enummer="" moslims="0" />
+    <ingredient id="931" name="pork flavor" enummer="" moslims="1" />
+    <ingredient id="933" name="flavorings for yoghurt and cooled desserts" enummer="" moslims="0" />
+    <ingredient id="934" name="bacon flavor (smoked)" enummer="" moslims="1" />
+    <ingredient id="935" name="ham flavor (smoked)" enummer="" moslims="1" />
+    <ingredient id="937" name="liquorice" enummer="" moslims="0" />
+    <ingredient id="938" name="flavorings for confectionery" enummer="" moslims="0" />
+    <ingredient id="939" name="caramel flavor" enummer="" moslims="0" />
+    <ingredient id="941" name="butterscotch flavor" enummer="" moslims="0" />
+    <ingredient id="942" name="chocolate flavor" enummer="" moslims="0" />
+    <ingredient id="943" name="toffee flavor" enummer="" moslims="0" />
+    <ingredient id="944" name="liquorice flavor" enummer="" moslims="0" />
+    <ingredient id="945" name="cheese flavorings" enummer="" moslims="0" />
+    <ingredient id="946" name="calcium" enummer="" moslims="0" />
+    <ingredient id="950" name="calcium glycero phosphate" enummer="" moslims="0" />
+    <ingredient id="954" name="calcium salts of lemon acid" enummer="" moslims="0" />
+    <ingredient id="955" name="calcium salts of orthophosphor acid" enummer="" moslims="0" />
+    <ingredient id="957" name="chloor" enummer="" moslims="0" />
+    <ingredient id="958" name="ammonium chloride" enummer="" moslims="0" />
+    <ingredient id="960" name="potassium chloride" enummer="" moslims="0" />
+    <ingredient id="962" name="mangaan chloride" enummer="" moslims="0" />
+    <ingredient id="963" name="sodium chloride" enummer="" moslims="0" />
+    <ingredient id="964" name="zinc chloride" enummer="" moslims="0" />
+    <ingredient id="965" name="chcream" enummer="" moslims="0" />
+    <ingredient id="966" name="chromium(III) chloride" enummer="" moslims="0" />
+    <ingredient id="967" name="chromium(III) citrate" enummer="" moslims="0" />
+    <ingredient id="968" name="chromium(lll) gluconate" enummer="" moslims="0" />
+    <ingredient id="969" name="chromium(III) picolinate" enummer="" moslims="0" />
+    <ingredient id="970" name="chromium(III) sulphate" enummer="" moslims="0" />
+    <ingredient id="971" name="D-biotine" enummer="" moslims="0" />
+    <ingredient id="972" name="essential fat acids" enummer="" moslims="0" />
+    <ingredient id="973" name="folium acid" enummer="" moslims="0" />
+    <ingredient id="974" name="pteroyl monoglutamine acid" enummer="" moslims="0" />
+    <ingredient id="975" name="phosphor" enummer="" moslims="0" />
+    <ingredient id="977" name="iron" enummer="" moslims="0" />
+    <ingredient id="978" name="elementary iron (from carbonyl)" enummer="" moslims="0" />
+    <ingredient id="979" name="elementary iron (electrolytic prepared)" enummer="" moslims="0" />
+    <ingredient id="980" name="elementary iron (with hydrogen reduced)" enummer="" moslims="0" />
+    <ingredient id="981" name="iron(II) carbonate" enummer="" moslims="0" />
+    <ingredient id="982" name="iron(II) citrate" enummer="" moslims="0" />
+    <ingredient id="983" name="iron(II) fumarate" enummer="" moslims="0" />
+    <ingredient id="984" name="iron(II) gluconate" enummer="579" moslims="0" />
+    <ingredient id="985" name="iron(II) lactate" enummer="585" moslims="0" />
+    <ingredient id="986" name="iron(II) sulphate" enummer="" moslims="0" />
+    <ingredient id="987" name="iron(III) ammonium citrate" enummer="" moslims="0" />
+    <ingredient id="988" name="iron(III) diphosphate" enummer="" moslims="0" />
+    <ingredient id="989" name="iron(III) pyrophosphate" enummer="" moslims="0" />
+    <ingredient id="990" name="iron(III) saccharate" enummer="" moslims="0" />
+    <ingredient id="991" name="sodiumiron(III) diphosphate" enummer="" moslims="0" />
+    <ingredient id="992" name="potassium" enummer="" moslims="0" />
+    <ingredient id="993" name="potassium bicarbonate" enummer="" moslims="0" />
+    <ingredient id="994" name="potassium carbonate" enummer="" moslims="0" />
+    <ingredient id="996" name="potassium giuconate" enummer="" moslims="0" />
+    <ingredient id="999" name="potassium salts of lemon acid" enummer="" moslims="0" />
+    <ingredient id="1000" name="potassium salts of orthophosphor acid" enummer="" moslims="0" />
+    <ingredient id="1002" name="copper" enummer="" moslims="0" />
+    <ingredient id="1003" name="copper(II) carbonate" enummer="" moslims="0" />
+    <ingredient id="1004" name="copper(II) citrate" enummer="" moslims="0" />
+    <ingredient id="1005" name="copper(II) gluconate" enummer="" moslims="0" />
+    <ingredient id="1006" name="copper(II) sulphate" enummer="" moslims="0" />
+    <ingredient id="1007" name="copper-lysine-complex" enummer="" moslims="0" />
+    <ingredient id="1008" name="magnesium" enummer="" moslims="0" />
+    <ingredient id="1009" name="magnesium carbonate" enummer="" moslims="0" />
+    <ingredient id="1011" name="magnesium gluconate" enummer="" moslims="0" />
+    <ingredient id="1012" name="magnesium glycero phosphate" enummer="" moslims="0" />
+    <ingredient id="1014" name="magnesium lactate" enummer="" moslims="0" />
+    <ingredient id="1016" name="magnesium sulphate" enummer="" moslims="0" />
+    <ingredient id="1017" name="magnesium salts of lemon acid" enummer="" moslims="0" />
+    <ingredient id="1019" name="magnesium salts of orthoforsfos acid" enummer="" moslims="0" />
+    <ingredient id="1021" name="manganese" enummer="" moslims="0" />
+    <ingredient id="1022" name="manganese carbonate" enummer="" moslims="0" />
+    <ingredient id="1024" name="manganese citrate" enummer="" moslims="0" />
+    <ingredient id="1025" name="manganese gluconate" enummer="" moslims="0" />
+    <ingredient id="1026" name="manganese glycerophosphate" enummer="" moslims="0" />
+    <ingredient id="1027" name="manganese sulphate" enummer="" moslims="0" />
+    <ingredient id="1028" name="minerals (general)" enummer="" moslims="0" />
+    <ingredient id="1029" name="mineral mixtures" enummer="" moslims="0" />
+    <ingredient id="1030" name="molybdene" enummer="" moslims="0" />
+    <ingredient id="1031" name="ammonium molybdate (VI)" enummer="" moslims="0" />
+    <ingredient id="1032" name="potassium  molybdate (VI)" enummer="" moslims="0" />
+    <ingredient id="1033" name="sodium molybdate (VI)" enummer="" moslims="0" />
+    <ingredient id="1034" name="sodium" enummer="" moslims="0" />
+    <ingredient id="1035" name="sodium bicarbonate" enummer="" moslims="0" />
+    <ingredient id="1036" name="sodium carbonate" enummer="" moslims="0" />
+    <ingredient id="1041" name="sodium salts of lemon acid" enummer="" moslims="0" />
+    <ingredient id="1043" name="sodium salts of orthophosphor acid" enummer="" moslims="0" />
+    <ingredient id="1045" name="niacine" enummer="" moslims="0" />
+    <ingredient id="1046" name="nicotinamide" enummer="" moslims="0" />
+    <ingredient id="1047" name="nicotine acid" enummer="375" moslims="0" />
+    <ingredient id="1048" name="pantothene acid" enummer="" moslims="0" />
+    <ingredient id="1049" name="calcium-D-pantothenate" enummer="" moslims="0" />
+    <ingredient id="1050" name="dexpanthenol" enummer="" moslims="0" />
+    <ingredient id="1051" name="sodium-D-pantothenate" enummer="" moslims="0" />
+    <ingredient id="1052" name="selenium" enummer="" moslims="0" />
+    <ingredient id="1053" name="sodium selenate" enummer="" moslims="0" />
+    <ingredient id="1054" name="sodium selenite" enummer="" moslims="0" />
+    <ingredient id="1055" name="selenocysteïne" enummer="" moslims="0" />
+    <ingredient id="1056" name="selenocystine" enummer="" moslims="0" />
+    <ingredient id="1057" name="selenomethionine" enummer="" moslims="0" />
+    <ingredient id="1058" name="vitamins A" enummer="" moslims="0" />
+    <ingredient id="1059" name="betacarotene" enummer="160a" moslims="0" />
+    <ingredient id="1060" name="retinol" enummer="" moslims="0" />
+    <ingredient id="1061" name="retinyl-acetate" enummer="" moslims="0" />
+    <ingredient id="1062" name="retinyl-palmitate" enummer="" moslims="0" />
+    <ingredient id="1063" name="vitamins B1" enummer="" moslims="0" />
+    <ingredient id="1064" name="chloride" enummer="" moslims="0" />
+    <ingredient id="1065" name="thiamine mononitrate" enummer="" moslims="0" />
+    <ingredient id="1066" name="thiamine-hydrogen" enummer="" moslims="0" />
+    <ingredient id="1067" name="vitamins B12" enummer="" moslims="0" />
+    <ingredient id="1068" name="cyanocobalamine" enummer="" moslims="0" />
+    <ingredient id="1069" name="hydroxocobalamine" enummer="" moslims="0" />
+    <ingredient id="1070" name="vitamins B2" enummer="" moslims="0" />
+    <ingredient id="1072" name="riboflavine-5'-sodium phosphate" enummer="" moslims="0" />
+    <ingredient id="1073" name="vitamins B6" enummer="" moslims="0" />
+    <ingredient id="1074" name="pyridoxal-5'-phosphate" enummer="" moslims="0" />
+    <ingredient id="1075" name="pyridoxinedipalmitate" enummer="" moslims="0" />
+    <ingredient id="1076" name="pyridoxine-hydrogen chloride" enummer="" moslims="0" />
+    <ingredient id="1077" name="vitamins C" enummer="" moslims="0" />
+    <ingredient id="1078" name="6-palmityl-L-ascorbineacid" enummer="" moslims="0" />
+    <ingredient id="1079" name="ascorbylpalmitate" enummer="304" moslims="1" />
+    <ingredient id="1081" name="calcium-L-ascorbate" enummer="" moslims="0" />
+    <ingredient id="1082" name="potassium-L-ascorbate" enummer="" moslims="0" />
+    <ingredient id="1083" name="sodium-L-ascorbate" enummer="" moslims="0" />
+    <ingredient id="1084" name="vitamins D" enummer="" moslims="0" />
+    <ingredient id="1085" name="cholecalciferol" enummer="" moslims="0" />
+    <ingredient id="1086" name="ergocalceferol" enummer="" moslims="0" />
+    <ingredient id="1087" name="vitamins E" enummer="" moslims="0" />
+    <ingredient id="1088" name="D-alfa-tocoferol" enummer="" moslims="0" />
+    <ingredient id="1089" name="D-alfa-tocoferylacetate" enummer="" moslims="0" />
+    <ingredient id="1090" name="DL-alfa-tocoferol" enummer="" moslims="0" />
+    <ingredient id="1091" name="DL-alfa-tocoferylacetate" enummer="" moslims="0" />
+    <ingredient id="1092" name="vitamins K" enummer="" moslims="0" />
+    <ingredient id="1093" name="fyllochinon" enummer="" moslims="0" />
+    <ingredient id="1094" name="fytomenadion" enummer="" moslims="0" />
+    <ingredient id="1095" name="vitamins mixtures" enummer="" moslims="0" />
+    <ingredient id="1096" name="vitamins (general)" enummer="" moslims="0" />
+    <ingredient id="1097" name="zinc" enummer="" moslims="0" />
+    <ingredient id="1098" name="zinc acetate" enummer="" moslims="0" />
+    <ingredient id="1100" name="zinc gluconate" enummer="" moslims="0" />
+    <ingredient id="1101" name="zinc glycinate" enummer="" moslims="0" />
+    <ingredient id="1102" name="zinc lactate" enummer="" moslims="0" />
+    <ingredient id="1103" name="zinc oxide" enummer="" moslims="0" />
+    <ingredient id="1104" name="zinc sulphate" enummer="" moslims="0" />
+    <ingredient id="1105" name="zinc salts of lemon acid" enummer="" moslims="0" />
+    <ingredient id="1106" name="bacterial cultures (general)" enummer="" moslims="0" />
+    <ingredient id="1107" name="ent sausage" enummer="" moslims="0" />
+    <ingredient id="1115" name="whippable resources (general)" enummer="" moslims="0" />
+    <ingredient id="1116" name="protein foam" enummer="" moslims="0" />
+    <ingredient id="1121" name="amonium chloride" enummer="" moslims="0" />
+    <ingredient id="1122" name="asparagine acid" enummer="" moslims="0" />
+    <ingredient id="1124" name="cafeïne" enummer="" moslims="0" />
+    <ingredient id="1125" name="L-carnitine" enummer="" moslims="0" />
+    <ingredient id="1126" name="L-carnitine L-tartrate" enummer="" moslims="0" />
+    <ingredient id="1127" name="L-carnitine Mg citrate" enummer="" moslims="0" />
+    <ingredient id="1128" name="CLA" enummer="" moslims="0" />
+    <ingredient id="1129" name="cream caramel" enummer="" moslims="0" />
+    <ingredient id="1131" name="frist resources" enummer="" moslims="0" />
+    <ingredient id="1132" name="cyclo dextrine" enummer="" moslims="0" />
+    <ingredient id="1135" name="malto dextrine" enummer="" moslims="0" />
+    <ingredient id="1136" name="phosphatidylserine" enummer="" moslims="0" />
+    <ingredient id="1137" name="phospholipides" enummer="" moslims="0" />
+    <ingredient id="1138" name="roasted sugar" enummer="" moslims="0" />
+    <ingredient id="1139" name="glyceryltriacetate" enummer="1518" moslims="0" />
+    <ingredient id="1140" name="glycinate" enummer="640" moslims="1" />
+    <ingredient id="1143" name="release agent" enummer="" moslims="0" />
+    <ingredient id="1144" name="milk sugar derivatives" enummer="" moslims="0" />
+    <ingredient id="1145" name="solvents" enummer="" moslims="0" />
+    <ingredient id="1146" name="alcohol" enummer="" moslims="1" />
+    <ingredient id="1148" name="methylethylketon" enummer="" moslims="0" />
+    <ingredient id="1150" name="salmiac" enummer="" moslims="0" />
+    <ingredient id="1151" name="propylene glycerol" enummer="" moslims="0" />
+    <ingredient id="1152" name="ovalbumine" enummer="" moslims="0" />
+    <ingredient id="1153" name="ovotransferrine" enummer="" moslims="0" />
+    <ingredient id="1154" name="phytosterol (esters)" enummer="" moslims="0" />
+    <ingredient id="1155" name="smoke (luiquid)" enummer="" moslims="0" />
+    <ingredient id="1156" name="fungal cultures" enummer="" moslims="0" />
+    <ingredient id="1157" name="snack pellets" enummer="" moslims="0" />
+    <ingredient id="1159" name="taurine" enummer="" moslims="0" />
+    <ingredient id="1160" name="triethylcitrate" enummer="1505" moslims="0" />
+    <ingredient id="1161" name="ofilline" enummer="" moslims="0" />
+    <ingredient id="1162" name="fat powder" enummer="" moslims="0" />
+    <ingredient id="1163" name="fat substitutes" enummer="" moslims="0" />
+    <ingredient id="1164" name="fat acids" enummer="570" moslims="1" />
+    <ingredient id="1165" name="hydrogen peroxide" enummer="" moslims="0" />
+    <ingredient id="1167" name="sel acid destilate" enummer="" moslims="0" />
+    <ingredient id="1168" name="sel acid permeate" enummer="" moslims="0" />
+    <ingredient id="1170" name="potato flakes" enummer="" moslims="0" />
+    <ingredient id="1171" name="advocate" enummer="" moslims="0" />
+    <ingredient id="1172" name="almonds" enummer="" moslims="0" />
+    <ingredient id="1173" name="almond oil" enummer="" moslims="0" />
+    <ingredient id="1174" name="amaretti" enummer="" moslims="0" />
+    <ingredient id="1175" name="anise" enummer="" moslims="0" />
+    <ingredient id="1176" name="anise oil" enummer="" moslims="0" />
+    <ingredient id="1177" name="arachide oil" enummer="" moslims="0" />
+    <ingredient id="1179" name="brown sugar" enummer="" moslims="0" />
+    <ingredient id="1183" name="buckwheat grits" enummer="" moslims="0" />
+    <ingredient id="1184" name="buckwheat flour" enummer="" moslims="0" />
+    <ingredient id="1185" name="buckwheat flakes" enummer="" moslims="0" />
+    <ingredient id="1186" name="butter" enummer="" moslims="0" />
+    <ingredient id="1187" name="butter concentrate" enummer="" moslims="0" />
+    <ingredient id="1188" name="butter oil" enummer="" moslims="0" />
+    <ingredient id="1189" name="bouillon" enummer="" moslims="0" />
+    <ingredient id="1190" name="bred raw materials" enummer="" moslims="0" />
+    <ingredient id="1191" name="cocoa butter" enummer="" moslims="0" />
+    <ingredient id="1192" name="cocoa butter substitutes" enummer="" moslims="0" />
+    <ingredient id="1193" name="cocoa fantasy" enummer="" moslims="0" />
+    <ingredient id="1194" name="cocoa mass" enummer="" moslims="0" />
+    <ingredient id="1195" name="cocoa mix" enummer="" moslims="0" />
+    <ingredient id="1196" name="cocoa powder" enummer="" moslims="0" />
+    <ingredient id="1197" name="caramel crumb" enummer="" moslims="0" />
+    <ingredient id="1198" name="caramel pieces" enummer="" moslims="0" />
+    <ingredient id="1200" name="cashew nutts" enummer="" moslims="0" />
+    <ingredient id="1201" name="mushrooms" enummer="" moslims="0" />
+    <ingredient id="1202" name="chili" enummer="" moslims="0" />
+    <ingredient id="1203" name="chocolate" enummer="" moslims="0" />
+    <ingredient id="1204" name="chocolate crumb" enummer="" moslims="0" />
+    <ingredient id="1205" name="chutney" enummer="" moslims="0" />
+    <ingredient id="1206" name="coffee whitener" enummer="" moslims="0" />
+    <ingredient id="1207" name="cola nut" enummer="" moslims="0" />
+    <ingredient id="1208" name="compounds" enummer="" moslims="0" />
+    <ingredient id="1209" name="confectioner jam" enummer="" moslims="0" />
+    <ingredient id="1210" name="couverture" enummer="" moslims="0" />
+    <ingredient id="1211" name="cranberries" enummer="" moslims="0" />
+    <ingredient id="1212" name="croutons" enummer="" moslims="0" />
+    <ingredient id="1213" name="pasta" enummer="" moslims="0" />
+    <ingredient id="1216" name="liquorice powder" enummer="" moslims="0" />
+    <ingredient id="1217" name="eggs" enummer="" moslims="0" />
+    <ingredient id="1222" name="pea protein" enummer="" moslims="0" />
+    <ingredient id="1223" name="pea starch" enummer="" moslims="0" />
+    <ingredient id="1224" name="ethereal oils" enummer="" moslims="0" />
+    <ingredient id="1225" name="ethylalcohol" enummer="" moslims="1" />
+    <ingredient id="1226" name="fermentation media" enummer="" moslims="0" />
+    <ingredient id="1227" name="fondant" enummer="" moslims="0" />
+    <ingredient id="1228" name="phosphate" enummer="" moslims="0" />
+    <ingredient id="1230" name="fruit granulate" enummer="" moslims="0" />
+    <ingredient id="1231" name="fruit mix" enummer="" moslims="0" />
+    <ingredient id="1232" name="fruit nuggets" enummer="" moslims="0" />
+    <ingredient id="1233" name="fruit pasta" enummer="" moslims="0" />
+    <ingredient id="1234" name="fudge cubes" enummer="" moslims="0" />
+    <ingredient id="1235" name="galactose" enummer="" moslims="0" />
+    <ingredient id="1237" name="ginger" enummer="" moslims="0" />
+    <ingredient id="1238" name="barley" enummer="" moslims="0" />
+    <ingredient id="1239" name="barley flakes" enummer="" moslims="0" />
+    <ingredient id="1240" name="peeled millet" enummer="" moslims="0" />
+    <ingredient id="1241" name="yeast products (coated)" enummer="" moslims="0" />
+    <ingredient id="1243" name="glucose syrup" enummer="" moslims="0" />
+    <ingredient id="1245" name="vegetables" enummer="" moslims="0" />
+    <ingredient id="1246" name="vegetable concentrate" enummer="" moslims="0" />
+    <ingredient id="1247" name="vegetable juice" enummer="" moslims="0" />
+    <ingredient id="1248" name="oats" enummer="" moslims="0" />
+    <ingredient id="1249" name="oats malt" enummer="" moslims="0" />
+    <ingredient id="1250" name="hazelnut" enummer="" moslims="0" />
+    <ingredient id="1251" name="hazelnut crunch" enummer="" moslims="0" />
+    <ingredient id="1252" name="honey" enummer="" moslims="0" />
+    <ingredient id="1253" name="hop" enummer="" moslims="0" />
+    <ingredient id="1254" name="ice mix powder" enummer="" moslims="0" />
+    <ingredient id="1255" name="ice powder" enummer="" moslims="0" />
+    <ingredient id="1257" name="invert sugar" enummer="" moslims="0" />
+    <ingredient id="1258" name="juniper berries" enummer="" moslims="0" />
+    <ingredient id="1259" name="cheese" enummer="" moslims="0" />
+    <ingredient id="1261" name="cheese powder" enummer="" moslims="0" />
+    <ingredient id="1262" name="cheese special products" enummer="" moslims="0" />
+    <ingredient id="1263" name="cheese spreads" enummer="" moslims="0" />
+    <ingredient id="1264" name="candy" enummer="" moslims="0" />
+    <ingredient id="1265" name="candy syrup" enummer="" moslims="0" />
+    <ingredient id="1266" name="soy sauce" enummer="" moslims="0" />
+    <ingredient id="1267" name="garlic" enummer="" moslims="0" />
+    <ingredient id="1268" name="coffee" enummer="" moslims="0" />
+    <ingredient id="1271" name="coconut powder" enummer="" moslims="0" />
+    <ingredient id="1272" name="cumin" enummer="" moslims="0" />
+    <ingredient id="1273" name="herbes" enummer="" moslims="0" />
+    <ingredient id="1274" name="herbes extract" enummer="" moslims="0" />
+    <ingredient id="1275" name="quark powder" enummer="" moslims="0" />
+    <ingredient id="1276" name="lactose" enummer="" moslims="0" />
+    <ingredient id="1277" name="cod-liver oil" enummer="" moslims="0" />
+    <ingredient id="1278" name="linseed, brown" enummer="" moslims="0" />
+    <ingredient id="1279" name="lupins flour" enummer="" moslims="0" />
+    <ingredient id="1280" name="poppy seed (blue)" enummer="" moslims="0" />
+    <ingredient id="1282" name="corn meal" enummer="" moslims="0" />
+    <ingredient id="1283" name="corn flour" enummer="" moslims="0" />
+    <ingredient id="1284" name="corn flakes" enummer="" moslims="0" />
+    <ingredient id="1285" name="maltose" enummer="" moslims="0" />
+    <ingredient id="1286" name="margarine" enummer="" moslims="0" />
+    <ingredient id="1287" name="mayonnaise" enummer="" moslims="0" />
+    <ingredient id="1289" name="molasses" enummer="" moslims="0" />
+    <ingredient id="1290" name="milk calcium" enummer="" moslims="0" />
+    <ingredient id="1292" name="milk powder" enummer="" moslims="0" />
+    <ingredient id="1293" name="milk products" enummer="" moslims="0" />
+    <ingredient id="1294" name="milk sugar" enummer="" moslims="0" />
+    <ingredient id="1296" name="milk salt" enummer="" moslims="0" />
+    <ingredient id="1297" name="meringue" enummer="" moslims="0" />
+    <ingredient id="1298" name="horseradish" enummer="" moslims="0" />
+    <ingredient id="1299" name="monosaccharides" enummer="" moslims="0" />
+    <ingredient id="1300" name="mustard" enummer="" moslims="0" />
+    <ingredient id="1301" name="malt" enummer="" moslims="0" />
+    <ingredient id="1304" name="musket seed" enummer="" moslims="0" />
+    <ingredient id="1305" name="natural food and beverage" enummer="" moslims="0" />
+    <ingredient id="1306" name="nuts" enummer="" moslims="0" />
+    <ingredient id="1307" name="nougat" enummer="" moslims="0" />
+    <ingredient id="1308" name="oils and fats" enummer="" moslims="0" />
+    <ingredient id="1310" name="olive oil in powder form" enummer="" moslims="0" />
+    <ingredient id="1311" name="olives" enummer="" moslims="0" />
+    <ingredient id="1312" name="omelette strips" enummer="" moslims="0" />
+    <ingredient id="1313" name="palm kernel oil" enummer="" moslims="0" />
+    <ingredient id="1314" name="bread-crumbs" enummer="" moslims="0" />
+    <ingredient id="1315" name="pecan nuts" enummer="" moslims="0" />
+    <ingredient id="1316" name="pectin acid" enummer="" moslims="0" />
+    <ingredient id="1317" name="pesto" enummer="" moslims="0" />
+    <ingredient id="1318" name="dried legume" enummer="" moslims="0" />
+    <ingredient id="1319" name="cooked legume" enummer="" moslims="0" />
+    <ingredient id="1320" name="crunchy peanut" enummer="" moslims="0" />
+    <ingredient id="1321" name="peanuts" enummer="" moslims="0" />
+    <ingredient id="1322" name="pistachio nuts" enummer="" moslims="0" />
+    <ingredient id="1323" name="pizza topping" enummer="" moslims="0" />
+    <ingredient id="1325" name="peeled pumpkin seeds" enummer="" moslims="0" />
+    <ingredient id="1326" name="rapeseed oil" enummer="" moslims="0" />
+    <ingredient id="1327" name="rice" enummer="" moslims="0" />
+    <ingredient id="1328" name="rice flour" enummer="" moslims="0" />
+    <ingredient id="1329" name="rice pearls" enummer="" moslims="0" />
+    <ingredient id="1330" name="rice flakes" enummer="" moslims="0" />
+    <ingredient id="1331" name="rice starch" enummer="" moslims="0" />
+    <ingredient id="1332" name="rye flakes" enummer="" moslims="0" />
+    <ingredient id="1333" name="cream" enummer="" moslims="0" />
+    <ingredient id="1334" name="raisins" enummer="" moslims="0" />
+    <ingredient id="1335" name="sugar" enummer="" moslims="0" />
+    <ingredient id="1336" name="sambal" enummer="" moslims="0" />
+    <ingredient id="1337" name="sauce" enummer="" moslims="0" />
+    <ingredient id="1339" name="sesame flour" enummer="" moslims="0" />
+    <ingredient id="1340" name="sesame seed" enummer="" moslims="0" />
+    <ingredient id="1341" name="snack pallets" enummer="" moslims="0" />
+    <ingredient id="1344" name="soy-isoflavonconcentrates" enummer="" moslims="0" />
+    <ingredient id="1345" name="soy seed concentrates" enummer="" moslims="0" />
+    <ingredient id="1346" name="soy oil" enummer="" moslims="0" />
+    <ingredient id="1347" name="soy products" enummer="" moslims="0" />
+    <ingredient id="1348" name="sorghum" enummer="" moslims="0" />
+    <ingredient id="1349" name="spices" enummer="" moslims="0" />
+    <ingredient id="1350" name="spice extract" enummer="" moslims="0" />
+    <ingredient id="1351" name="food" enummer="" moslims="0" />
+    <ingredient id="1352" name="food flavor" enummer="" moslims="0" />
+    <ingredient id="1354" name="syrups" enummer="" moslims="0" />
+    <ingredient id="1355" name="sugars" enummer="" moslims="0" />
+    <ingredient id="1356" name="tapioca flour" enummer="" moslims="0" />
+    <ingredient id="1358" name="wheat seeds" enummer="" moslims="0" />
+    <ingredient id="1359" name="wheat seed oil" enummer="" moslims="0" />
+    <ingredient id="1360" name="wheat flour" enummer="" moslims="0" />
+    <ingredient id="1361" name="wheat flakes" enummer="" moslims="0" />
+    <ingredient id="1362" name="tomatoes powder" enummer="" moslims="0" />
+    <ingredient id="1363" name="tomatoes puree" enummer="" moslims="0" />
+    <ingredient id="1364" name="truffle pieces" enummer="" moslims="0" />
+    <ingredient id="1365" name="onion powder" enummer="" moslims="0" />
+    <ingredient id="1366" name="vanilla sugar" enummer="" moslims="0" />
+    <ingredient id="1367" name="bean flour" enummer="" moslims="0" />
+    <ingredient id="1368" name="vending products" enummer="" moslims="0" />
+    <ingredient id="1369" name="fish powder" enummer="" moslims="0" />
+    <ingredient id="1370" name="custard powder" enummer="" moslims="0" />
+    <ingredient id="1371" name="dried meatp roducts" enummer="" moslims="0" />
+    <ingredient id="1373" name="fruit (candied)" enummer="" moslims="0" />
+    <ingredient id="1374" name="fruit rasp" enummer="" moslims="0" />
+    <ingredient id="1376" name="fruit powders" enummer="" moslims="0" />
+    <ingredient id="1377" name="fruit products (composite)" enummer="" moslims="0" />
+    <ingredient id="1378" name="fruit purees" enummer="" moslims="0" />
+    <ingredient id="1379" name="fruit juice concentrates" enummer="" moslims="0" />
+    <ingredient id="1380" name="fruit juices" enummer="" moslims="0" />
+    <ingredient id="1381" name="fruit syrups" enummer="" moslims="0" />
+    <ingredient id="1382" name="walnuts" enummer="" moslims="0" />
+    <ingredient id="1385" name="wine vinegar" enummer="" moslims="0" />
+    <ingredient id="1386" name="carrot powder" enummer="" moslims="0" />
+    <ingredient id="1387" name="yogurt powder" enummer="" moslims="0" />
+    <ingredient id="1388" name="yogurt pieces" enummer="" moslims="0" />
+    <ingredient id="1390" name="liquorice powder" enummer="" moslims="0" />
+    <ingredient id="1391" name="sunflower oil" enummer="" moslims="0" />
+    <ingredient id="1392" name="sunflower pitts (pealed)" enummer="" moslims="0" />
+    <ingredient id="1394" name="dairy special products" enummer="" moslims="0" />
+    <ingredient id="1395" name="dairy subtitutes" enummer="" moslims="0" />
+    <ingredient id="1396" name="vegetable oil and fat" enummer="" moslims="0" />
+    <ingredient id="1397" name="betanine" enummer="162" moslims="0" />
+    <ingredient id="1398" name="bixine" enummer="160b" moslims="0" />
+    <ingredient id="1399" name="capsanthine" enummer="160c" moslims="0" />
+    <ingredient id="1400" name="indigo carmine" enummer="132" moslims="0" />
+    <ingredient id="1401" name="carmine acid" enummer="120" moslims="1" />
+    <ingredient id="1404" name="alfacarotene" enummer="" moslims="0" />
+    <ingredient id="1405" name="iron hydroxides" enummer="172" moslims="0" />
+    <ingredient id="1406" name="copper complexes of chlorophyllins" enummer="141" moslims="0" />
+    <ingredient id="1407" name="cochinealred A" enummer="124" moslims="0" />
+    <ingredient id="1408" name="lactoflavine" enummer="101" moslims="0" />
+    <ingredient id="1409" name="orangeyellow S" enummer="110" moslims="0" />
+    <ingredient id="1410" name="pimaricine" enummer="235" moslims="0" />
+    <ingredient id="1413" name="borax" enummer="285" moslims="0" />
+    <ingredient id="1414" name="potassium salts of fat acids" enummer="470a" moslims="1" />
+    <ingredient id="1415" name="fish gelatine" enummer="" moslims="0" />
+    <ingredient id="1416" name="yeast autolysate extract" enummer="" moslims="0" />
+    <ingredient id="1417" name="apple acid (coated)" enummer="296" moslims="0" />
+    <ingredient id="1418" name="vinegar acid" enummer="260" moslims="0" />
+    <ingredient id="1419" name="lemon acid (coated)" enummer="330" moslims="0" />
+    <ingredient id="1421" name="glucono-delta-lacton (coated)" enummer="575" moslims="0" />
+    <ingredient id="1422" name="milk acid (coated)" enummer="270" moslims="0" />
+    <ingredient id="1423" name="tin-1-chloride" enummer="512" moslims="0" />
+    <ingredient id="1432" name="sodium glycinate" enummer="640" moslims="1" />
+    <ingredient id="1433" name="pebble acid" enummer="551" moslims="0" />
+    <ingredient id="1434" name="sodium salt of cyclaam acid" enummer="952" moslims="0" />
+    <ingredient id="1435" name="cyclamate" enummer="952" moslims="0" />
+    <ingredient id="1436" name="sodium cyclamate" enummer="952" moslims="0" />
+    <ingredient id="1437" name="calcium cyclamate" enummer="952" moslims="0" />
+    <ingredient id="1438" name="isomaltitol" enummer="953" moslims="0" />
+    <ingredient id="1439" name="maltitol syrup" enummer="965" moslims="0" />
+    <ingredient id="1440" name="sodium salt of sacharine" enummer="954" moslims="0" />
+    <ingredient id="1441" name="potassium salt of sacharine" enummer="954" moslims="0" />
+    <ingredient id="1442" name="calcium salt of sacharine" enummer="954" moslims="0" />
+    <ingredient id="1443" name="sorbitol syrup" enummer="420" moslims="0" />
+    <ingredient id="1444" name="composite baking powder" enummer="" moslims="0" />
+    <ingredient id="1445" name="yeast products" enummer="" moslims="0" />
+    <ingredient id="1446" name="bees wax (white)" enummer="901" moslims="0" />
+    <ingredient id="1447" name="bees wax (yellow)" enummer="901" moslims="0" />
+    <ingredient id="1448" name="hemi-cellulase" enummer="" moslims="0" />
+    <ingredient id="1450" name="L-cysteïne" enummer="920" moslims="1" />
+    <ingredient id="1451" name="lecithine in powder form" enummer="322" moslims="0" />
+    <ingredient id="1456" name="levocarnitine" enummer="" moslims="0" />
+    <ingredient id="1457" name="conjugated linoleic acid" enummer="" moslims="0" />
+    <ingredient id="1458" name="sodium glycanate" enummer="640" moslims="1" />
+    <ingredient id="1459" name="wood" enummer="" moslims="0" />
+    <ingredient id="1460" name="phytosterol" enummer="" moslims="0" />
+    <ingredient id="1461" name="ammonium chloride (coated)" enummer="" moslims="0" />
+    <ingredient id="1462" name="elementary iron" enummer="" moslims="0" />
+    <ingredient id="1463" name="choline acid" enummer="1000" moslims="1" />
+    <ingredient id="1464" name="lanoline" enummer="913" moslims="0" />
+    <ingredient id="1465" name="stearineacid" enummer="570" moslims="1" />
+    <ingredient id="1466" name="omega-3-fat acids" enummer="" moslims="0" />
+    <ingredient id="1467" name="carbon" enummer="153" moslims="0" />
+    <ingredient id="1468" name="formic acid" enummer="" moslims="0" />
+    <ingredient id="1470" name="vitamins B3" enummer="" moslims="0" />
+    <ingredient id="1471" name="urea" enummer="927b" moslims="0" />
+    <ingredient id="1472" name="vinegar yeast" enummer="" moslims="0" />
+    <ingredient id="1473" name="butter oil in powder form" enummer="" moslims="0" />
+    <ingredient id="1474" name="banquet raw materials" enummer="" moslims="0" />
+    <ingredient id="1476" name="instant dessert powder" enummer="" moslims="0" />
+    <ingredient id="1477" name="liquorice" enummer="" moslims="0" />
+    <ingredient id="1478" name="functional proteines" enummer="" moslims="0" />
+    <ingredient id="1479" name="peeled barley" enummer="" moslims="0" />
+    <ingredient id="1480" name="yeast (coated)" enummer="" moslims="0" />
+    <ingredient id="1481" name="yeast extract" enummer="" moslims="0" />
+    <ingredient id="1482" name="glucose" enummer="" moslims="0" />
+    <ingredient id="1483" name="dried vegetables" enummer="" moslims="0" />
+    <ingredient id="1484" name="peeled oats" enummer="" moslims="0" />
+    <ingredient id="1485" name="coffee extracts" enummer="" moslims="0" />
+    <ingredient id="1486" name="coconut fat" enummer="" moslims="0" />
+    <ingredient id="1487" name="coconut oil" enummer="" moslims="0" />
+    <ingredient id="1488" name="coconut fat in powder form" enummer="" moslims="0" />
+    <ingredient id="1489" name="coconut oil in powder form" enummer="" moslims="0" />
+    <ingredient id="1490" name="coconut oil extracts" enummer="" moslims="0" />
+    <ingredient id="1491" name="coconut fat extracts" enummer="" moslims="0" />
+    <ingredient id="1492" name="heat treated flour" enummer="" moslims="0" />
+    <ingredient id="1493" name="nut fillings" enummer="" moslims="0" />
+    <ingredient id="1494" name="oil and fats in powder form" enummer="" moslims="0" />
+    <ingredient id="1495" name="olive oil" enummer="" moslims="0" />
+    <ingredient id="1496" name="pumpkin seeds" enummer="" moslims="0" />
+    <ingredient id="1497" name="turnip oil in powder form" enummer="" moslims="0" />
+    <ingredient id="1498" name="crispies" enummer="" moslims="0" />
+    <ingredient id="1499" name="cream in powder form" enummer="" moslims="0" />
+    <ingredient id="1500" name="saccharose" enummer="" moslims="0" />
+    <ingredient id="1501" name="soy oil in powder form" enummer="" moslims="0" />
+    <ingredient id="1502" name="meat products" enummer="" moslims="0" />
+    <ingredient id="1503" name="fruit products" enummer="" moslims="0" />
+    <ingredient id="1504" name="sunflour oil in powder form" enummer="" moslims="0" />
+    <ingredient id="1505" name="acid controllers (coated)" enummer="" moslims="0" />
+    <ingredient id="1508" name="disodium diphosphate" enummer="450I" moslims="0" />
+    <ingredient id="1509" name="trisodium diphosphate" enummer="450II" moslims="0" />
+    <ingredient id="1510" name="tetrasodium pyrophosphate" enummer="450III" moslims="0" />
+    <ingredient id="1511" name="tetrapotassium pyrophosphate" enummer="450V" moslims="0" />
+    <ingredient id="1512" name="calcium dihydrogen diphosphate" enummer="450VI" moslims="0" />
+    <ingredient id="1513" name="disodium pyrophosphate" enummer="450I" moslims="0" />
+    <ingredient id="1514" name="hardened vegetable fats" enummer="" moslims="0" />
+    <ingredient id="1515" name="hazelnuts" enummer="" moslims="0" />
+    <ingredient id="1516" name="full milk powder" enummer="" moslims="0" />
+    <ingredient id="1517" name="skimmed cocoa" enummer="" moslims="0" />
+    <ingredient id="1518" name="skimmed milk powder" enummer="" moslims="0" />
+    <ingredient id="1520" name="vegetable oil" enummer="" moslims="0" />
+    <ingredient id="1521" name="yolk powder" enummer="" moslims="0" />
+    <ingredient id="1522" name="soy lecithine" enummer="322" moslims="0" />
+    <ingredient id="1528" name="flavorings (general)" enummer="" moslims="0" />
+    <ingredient id="1529" name="dextrose" enummer="" moslims="0" />
+    <ingredient id="1532" name="potato starch" enummer="" moslims="0" />
+    <ingredient id="1533" name="strawberries" enummer="" moslims="0" />
+    <ingredient id="1534" name="propylester of galacid" enummer="310" moslims="0" />
+    <ingredient id="1535" name="aluminium stearate" enummer="573" moslims="1" />
+    <ingredient id="1536" name="ammonium stearate" enummer="571" moslims="1" />
+    <ingredient id="1537" name="bone flour" enummer="542" moslims="1" />
+    <ingredient id="1538" name="bone flour phosphate" enummer="542" moslims="1" />
+    <ingredient id="1539" name="collagene" enummer="" moslims="1" />
+    <ingredient id="1540" name="calcium ribonucleotides" enummer="634" moslims="1" />
+    <ingredient id="1541" name="calcium stearoyllactate" enummer="482" moslims="1" />
+    <ingredient id="1542" name="L-cystine" enummer="921" moslims="1" />
+    <ingredient id="1543" name="ethylmaltol" enummer="637" moslims="0" />
+    <ingredient id="1544" name="hardened fats" enummer="" moslims="1" />
+    <ingredient id="1545" name="egg lecithine" enummer="322" moslims="0" />
+    <ingredient id="1546" name="magnesium stearate" enummer="572" moslims="1" />
+    <ingredient id="1547" name="maltol" enummer="636" moslims="0" />
+    <ingredient id="1548" name="mixture of glycerol- and propyleneglycolesters with milk acid and fatty acids" enummer="478" moslims="1" />
+    <ingredient id="1549" name="sodium ribonucleotides" enummer="635" moslims="1" />
+    <ingredient id="1550" name="sodium stearoyllactate" enummer="481" moslims="1" />
+    <ingredient id="1551" name="oxystearine" enummer="387" moslims="1" />
+    <ingredient id="1552" name="stearylcitrate" enummer="484" moslims="1" />
+    <ingredient id="1553" name="sugar esters of fat acids" enummer="473" moslims="1" />
+    <ingredient id="1555" name="yoghurt" enummer="" moslims="0" />
+    <ingredient id="1556" name="water" enummer="" moslims="0" />
+    <ingredient id="1557" name="dry milk components" enummer="" moslims="0" />
+    <ingredient id="1558" name="cinnamon" enummer="" moslims="0" />
+    <ingredient id="1559" name="skimmed cocoa powder" enummer="" moslims="0" />
+    <ingredient id="1560" name="flavor" enummer="" moslims="0" />
+    <ingredient id="1562" name="vegetables oils and fats" enummer="" moslims="0" />
+    <ingredient id="1572" name="potatoes" enummer="" moslims="0" />
+    <ingredient id="1573" name="garlic powder" enummer="" moslims="0" />
+    <ingredient id="1574" name="orange juice marmelade" enummer="" moslims="0" />
+    <ingredient id="1575" name="glucose-fructose syrup" enummer="" moslims="0" />
+    <ingredient id="1576" name="orange juice pulp" enummer="" moslims="0" />
+    <ingredient id="1577" name="concentrated orange juice" enummer="" moslims="0" />
+    <ingredient id="1578" name="equivalent orange juice" enummer="" moslims="0" />
+    <ingredient id="1579" name="natural orange juice" enummer="" moslims="0" />
+    <ingredient id="1580" name="vegetable fat" enummer="" moslims="0" />
+    <ingredient id="1581" name="wheat flour" enummer="" moslims="0" />
+    <ingredient id="1582" name="ammonium hydrogen carbonate" enummer="503" moslims="0" />
+    <ingredient id="1583" name="vanilla" enummer="" moslims="0" />
+    <ingredient id="1584" name="cream powder" enummer="" moslims="0" />
+    <ingredient id="1585" name="dairy butter" enummer="" moslims="0" />
+    <ingredient id="1586" name="sugar syrup" enummer="" moslims="0" />
+    <ingredient id="1587" name="lupine flour" enummer="" moslims="0" />
+    <ingredient id="1588" name="free-range eggs" enummer="" moslims="0" />
+    <ingredient id="1589" name="modified potato starch" enummer="" moslims="0" />
+    <ingredient id="1590" name="mixed spices" enummer="" moslims="0" />
+    <ingredient id="1591" name="alpha carotene" enummer="160a" moslims="0" />
+    <ingredient id="1592" name="natural carotene" enummer="160a" moslims="0" />
+    <ingredient id="1593" name="whole-wheat" enummer="" moslims="0" />
+    <ingredient id="1594" name="oats flakes" enummer="" moslims="0" />
+    <ingredient id="1595" name="whole-wheat wheat flour" enummer="" moslims="0" />
+    <ingredient id="1596" name="barley flour" enummer="" moslims="0" />
+    <ingredient id="1597" name="skimmed yoghurt powder" enummer="" moslims="0" />
+    <ingredient id="1598" name="berries" enummer="" moslims="0" />
+    <ingredient id="1599" name="blackberry" enummer="" moslims="0" />
+    <ingredient id="1600" name="raspberry" enummer="" moslims="0" />
+    <ingredient id="1602" name="butterfat" enummer="" moslims="0" />
+    <ingredient id="1603" name="demineralized whey powder" enummer="" moslims="0" />
+    <ingredient id="1604" name="natural flavors" enummer="" moslims="0" />
+    <ingredient id="1605" name="whipped cream" enummer="" moslims="0" />
+    <ingredient id="1606" name="sal ammoniac salt" enummer="" moslims="0" />
+    <ingredient id="1607" name="liquorice carrot extract" enummer="" moslims="0" />
+    <ingredient id="1608" name="sunflour lecithine" enummer="322" moslims="0" />
+    <ingredient id="1609" name="fish oil" enummer="" moslims="0" />
+    <ingredient id="1610" name="apple juice from concentrated apple juice" enummer="" moslims="0" />
+    <ingredient id="1611" name="red grapes juice" enummer="" moslims="0" />
+    <ingredient id="1612" name="grapefruit juice from concentrated grapefruit juice" enummer="" moslims="0" />
+    <ingredient id="1613" name="orange juice from concentrated orange juice" enummer="" moslims="0" />
+    <ingredient id="1614" name="tomato juice" enummer="" moslims="0" />
+    <ingredient id="1615" name="celery juice" enummer="" moslims="0" />
+    <ingredient id="1616" name="carrot juice" enummer="" moslims="0" />
+    <ingredient id="1617" name="parsley juice" enummer="" moslims="0" />
+    <ingredient id="1618" name="beet juice" enummer="" moslims="0" />
+    <ingredient id="1619" name="lemon juice" enummer="" moslims="0" />
+    <ingredient id="1620" name="spinach juice" enummer="" moslims="0" />
+    <ingredient id="1621" name="sla juice" enummer="" moslims="0" />
+    <ingredient id="1622" name="paprika juice" enummer="" moslims="0" />
+    <ingredient id="1623" name="onion juice" enummer="" moslims="0" />
+    <ingredient id="1624" name="lavas juice" enummer="" moslims="0" />
+    <ingredient id="1625" name="basilicum juice" enummer="" moslims="0" />
+    <ingredient id="1626" name="fruit juice from concentrated fruit juice" enummer="" moslims="0" />
+    <ingredient id="1627" name="tomatoes" enummer="" moslims="0" />
+    <ingredient id="1628" name="yolk" enummer="" moslims="0" />
+    <ingredient id="1629" name="corn" enummer="" moslims="0" />
+    <ingredient id="1630" name="pectine" enummer="440" moslims="0" />
+    <ingredient id="1631" name="full milk" enummer="" moslims="0" />
+    <ingredient id="1632" name="concentrated skimmed milk" enummer="" moslims="0" />
+    <ingredient id="1634" name="brandy" enummer="" moslims="1" />
+    <ingredient id="1635" name="full yoghurt" enummer="" moslims="0" />
+    <ingredient id="1636" name="berries sauce" enummer="" moslims="0" />
+    <ingredient id="1637" name="milk chocolate pieces" enummer="" moslims="0" />
+    <ingredient id="1638" name="re-hydrated skimmed milk" enummer="" moslims="0" />
+    <ingredient id="1639" name="ground vanilla pods" enummer="" moslims="0" />
+    <ingredient id="1640" name="wheat fibers" enummer="" moslims="0" />
+    <ingredient id="1641" name="coconut" enummer="" moslims="0" />
+    <ingredient id="1642" name="wheat starch" enummer="" moslims="0" />
+    <ingredient id="1643" name="lemon rasp" enummer="" moslims="0" />
+    <ingredient id="1644" name="mono- and diglycerides of fatty acids (vegetable)" enummer="471" moslims="0" />
+    <ingredient id="1645" name="green tea" enummer="" moslims="0" />
+    <ingredient id="1646" name="cranberry pieces" enummer="" moslims="0" />
+    <ingredient id="1647" name="grape sugar" enummer="" moslims="0" />
+    <ingredient id="1648" name="egg protein powder" enummer="" moslims="0" />
+    <ingredient id="1649" name="skimmed milk" enummer="" moslims="0" />
+    <ingredient id="1650" name="skimmed yoghurt" enummer="" moslims="0" />
+    <ingredient id="1651" name="milk components" enummer="" moslims="0" />
+    <ingredient id="1652" name="guar gum" enummer="412" moslims="0" />
+    <ingredient id="1653" name="rye flour" enummer="" moslims="0" />
+    <ingredient id="1654" name="whole-wheat rye flour" enummer="" moslims="0" />
+    <ingredient id="1655" name="rye bran" enummer="" moslims="0" />
+    <ingredient id="1656" name="barley malt" enummer="" moslims="0" />
+    <ingredient id="1657" name="pears puree" enummer="" moslims="0" />
+    <ingredient id="1658" name="white asparagus" enummer="" moslims="0" />
+    <ingredient id="1659" name="green asparagus" enummer="" moslims="0" />
+    <ingredient id="1660" name="corn starch" enummer="" moslims="0" />
+    <ingredient id="1661" name="rosemary" enummer="" moslims="0" />
+    <ingredient id="1662" name="wheat glutes" enummer="" moslims="0" />
+    <ingredient id="1663" name="peach" enummer="" moslims="0" />
+</ingredienten>

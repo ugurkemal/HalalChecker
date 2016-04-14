@@ -1,0 +1,1131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ingredienten>
+    <ingredient id="1" name="alfa amylase B" enummer="" moslims="0" />
+    <ingredient id="2" name="amyloglucosidase" enummer="" moslims="0" />
+    <ingredient id="3" name="cellulase" enummer="" moslims="0" />
+    <ingredient id="4" name="chymosine" enummer="" moslims="0" />
+    <ingredient id="5" name="eiwitsplitsend enzym" enummer="" moslims="0" />
+    <ingredient id="6" name="enzymen (algemeen)" enummer="" moslims="0" />
+    <ingredient id="7" name="galactosidase" enummer="" moslims="0" />
+    <ingredient id="8" name="glucanase" enummer="" moslims="0" />
+    <ingredient id="9" name="gluco-amylase" enummer="" moslims="0" />
+    <ingredient id="10" name="glucose-isomerase" enummer="" moslims="0" />
+    <ingredient id="11" name="glucose-oxidase" enummer="" moslims="0" />
+    <ingredient id="12" name="inulinase" enummer="" moslims="0" />
+    <ingredient id="13" name="invertase" enummer="1103" moslims="0" />
+    <ingredient id="14" name="koolhydraadsplitsend enzym" enummer="" moslims="0" />
+    <ingredient id="15" name="lactase" enummer="" moslims="0" />
+    <ingredient id="16" name="lebstremsel" enummer="" moslims="0" />
+    <ingredient id="17" name="lipase" enummer="" moslims="0" />
+    <ingredient id="18" name="lipoxygenase" enummer="" moslims="0" />
+    <ingredient id="19" name="lysozym" enummer="1105" moslims="0" />
+    <ingredient id="20" name="microbieel stremsel" enummer="" moslims="0" />
+    <ingredient id="21" name="moutbloem" enummer="" moslims="0" />
+    <ingredient id="22" name="moutextract" enummer="" moslims="0" />
+    <ingredient id="23" name="pectinase" enummer="" moslims="0" />
+    <ingredient id="24" name="pentosanase" enummer="" moslims="0" />
+    <ingredient id="25" name="protease" enummer="" moslims="0" />
+    <ingredient id="26" name="tannase" enummer="" moslims="0" />
+    <ingredient id="27" name="vetsplitsend enzym" enummer="" moslims="0" />
+    <ingredient id="28" name="xylanase" enummer="" moslims="0" />
+    <ingredient id="29" name="zetmeelsplitsend enzym" enummer="" moslims="0" />
+    <ingredient id="30" name="allurarood AC" enummer="129" moslims="0" />
+    <ingredient id="31" name="aluminium" enummer="173" moslims="0" />
+    <ingredient id="32" name="amaranth" enummer="123" moslims="0" />
+    <ingredient id="33" name="anthocyaninen" enummer="163" moslims="0" />
+    <ingredient id="34" name="azorubine" enummer="122" moslims="0" />
+    <ingredient id="35" name="bietenrood" enummer="162" moslims="0" />
+    <ingredient id="36" name="bloedplasma" enummer="" moslims="1" />
+    <ingredient id="37" name="bloedpoeder" enummer="" moslims="1" />
+    <ingredient id="38" name="briljantblauw FCF" enummer="133" moslims="0" />
+    <ingredient id="39" name="briljantzwart BN" enummer="151" moslims="0" />
+    <ingredient id="40" name="zwart PN" enummer="151" moslims="0" />
+    <ingredient id="41" name="bruin FK" enummer="154" moslims="0" />
+    <ingredient id="42" name="bruin HT" enummer="155" moslims="0" />
+    <ingredient id="43" name="calciumcarbonaten" enummer="170" moslims="0" />
+    <ingredient id="44" name="carbo medicinalis vegetabilis" enummer="153" moslims="0" />
+    <ingredient id="45" name="karmozijn" enummer="122" moslims="0" />
+    <ingredient id="46" name="carotenoïden" enummer="160" moslims="0" />
+    <ingredient id="47" name="annatto" enummer="160b" moslims="0" />
+    <ingredient id="48" name="norbixine" enummer="160b" moslims="0" />
+    <ingredient id="49" name="apocaroteen-esters" enummer="160" moslims="0" />
+    <ingredient id="50" name="apocarotenal" enummer="160" moslims="0" />
+    <ingredient id="51" name="beta-apo-8'-carotenal (C30)" enummer="160e" moslims="0" />
+    <ingredient id="53" name="caroteen (gemengd)" enummer="" moslims="0" />
+    <ingredient id="54" name="gammacaroteen" enummer="160a" moslims="0" />
+    <ingredient id="55" name="ethylester van beta-apo-8'-caroteenzuur" enummer="160f" moslims="0" />
+    <ingredient id="57" name="groen S" enummer="142" moslims="0" />
+    <ingredient id="58" name="lycopeen" enummer="160d" moslims="0" />
+    <ingredient id="59" name="paprika-extract" enummer="160c" moslims="0" />
+    <ingredient id="60" name="capsorubine" enummer="160c" moslims="0" />
+    <ingredient id="61" name="chinolinegeel" enummer="104" moslims="0" />
+    <ingredient id="62" name="chlorofylen" enummer="140" moslims="0" />
+    <ingredient id="64" name="cochenille" enummer="120" moslims="1" />
+    <ingredient id="65" name="karmijn" enummer="120" moslims="1" />
+    <ingredient id="66" name="curcumine" enummer="100" moslims="0" />
+    <ingredient id="67" name="erytrosine" enummer="127" moslims="0" />
+    <ingredient id="68" name="goud" enummer="175" moslims="0" />
+    <ingredient id="70" name="hemoglobine" enummer="" moslims="0" />
+    <ingredient id="71" name="ijzeroxiden" enummer="" moslims="0" />
+    <ingredient id="73" name="indigotine" enummer="132" moslims="0" />
+    <ingredient id="74" name="karamellen" enummer="150" moslims="0" />
+    <ingredient id="75" name="alkali-sulfietkaramel" enummer="150b" moslims="0" />
+    <ingredient id="77" name="ammoniakkaramel" enummer="150c" moslims="0" />
+    <ingredient id="79" name="karamel" enummer="150a" moslims="0" />
+    <ingredient id="80" name="sulfiet-ammoniakkaramel" enummer="150d" moslims="0" />
+    <ingredient id="82" name="kleurstoffen (algemeen)" enummer="" moslims="0" />
+    <ingredient id="83" name="kopercomplexen van chlorofylen" enummer="" moslims="0" />
+    <ingredient id="84" name="chlorofylinen" enummer="140" moslims="0" />
+    <ingredient id="85" name="litholrubine BK" enummer="180" moslims="0" />
+    <ingredient id="86" name="luteïne" enummer="" moslims="0" />
+    <ingredient id="87" name="mocca" enummer="" moslims="0" />
+    <ingredient id="90" name="moutmeel" enummer="" moslims="0" />
+    <ingredient id="91" name="patentblauw V" enummer="131" moslims="0" />
+    <ingredient id="92" name="plantenextracten" enummer="" moslims="0" />
+    <ingredient id="93" name="ponceau 4R" enummer="" moslims="0" />
+    <ingredient id="95" name="riboflavine" enummer="101" moslims="0" />
+    <ingredient id="96" name="rood 2G" enummer="128" moslims="0" />
+    <ingredient id="97" name="tartrazine" enummer="102" moslims="0" />
+    <ingredient id="98" name="titaandioxide" enummer="171" moslims="0" />
+    <ingredient id="99" name="vruchtenextracten" enummer="" moslims="0" />
+    <ingredient id="100" name="xanthofyllen" enummer="161" moslims="0" />
+    <ingredient id="101" name="cantaxanthine" enummer="161g" moslims="0" />
+    <ingredient id="102" name="flavoxanthine" enummer="" moslims="0" />
+    <ingredient id="103" name="kryptoxanthine" enummer="" moslims="0" />
+    <ingredient id="105" name="rhodoxanthine" enummer="" moslims="0" />
+    <ingredient id="106" name="rubixanthine" enummer="" moslims="0" />
+    <ingredient id="107" name="violoxanthine" enummer="" moslims="0" />
+    <ingredient id="108" name="zilver" enummer="174" moslims="0" />
+    <ingredient id="109" name="zonnegeel FCF" enummer="110" moslims="0" />
+    <ingredient id="111" name="acetaten" enummer="" moslims="0" />
+    <ingredient id="112" name="calciumacetaat" enummer="263" moslims="0" />
+    <ingredient id="113" name="cellulose-acetaat" enummer="" moslims="0" />
+    <ingredient id="114" name="kaliumacetaat" enummer="261" moslims="0" />
+    <ingredient id="115" name="natriumacetaat" enummer="262" moslims="0" />
+    <ingredient id="116" name="azijn" enummer="260" moslims="0" />
+    <ingredient id="117" name="benzoaten" enummer="" moslims="0" />
+    <ingredient id="118" name="calciumbenzoaat" enummer="213" moslims="0" />
+    <ingredient id="119" name="ethyl-p-hydroxybenzoaat" enummer="214" moslims="0" />
+    <ingredient id="122" name="natriumzout van ethyl-p-hydroxybenzoaat" enummer="215" moslims="0" />
+    <ingredient id="123" name="kaliumbenzoaat" enummer="212" moslims="0" />
+    <ingredient id="124" name="methyl-p-hydroxybenzoaat" enummer="219" moslims="0" />
+    <ingredient id="127" name="natriumzout van methyl-p-hydroxybenzoaat" enummer="219" moslims="0" />
+    <ingredient id="128" name="natriumbenzoaat" enummer="211" moslims="0" />
+    <ingredient id="129" name="propyl-p-hydroxybenzoaat" enummer="216" moslims="0" />
+    <ingredient id="131" name="natriumzout van propyl-p-hydroxybenzoaat" enummer="217" moslims="0" />
+    <ingredient id="133" name="benzoëzuur" enummer="210" moslims="0" />
+    <ingredient id="134" name="boorzuur" enummer="284" moslims="0" />
+    <ingredient id="135" name="cakestabilisatoren" enummer="" moslims="0" />
+    <ingredient id="136" name="conserveermiddelen (algemeen)" enummer="" moslims="0" />
+    <ingredient id="138" name="dimethyldicarbonaat" enummer="242" moslims="0" />
+    <ingredient id="139" name="enzymen" enummer="" moslims="0" />
+    <ingredient id="140" name="hexamethyleentetramine" enummer="239" moslims="0" />
+    <ingredient id="141" name="kaliumnitraat" enummer="252" moslims="0" />
+    <ingredient id="142" name="kaliumnitriet" enummer="249" moslims="0" />
+    <ingredient id="143" name="kooldioxide" enummer="290" moslims="0" />
+    <ingredient id="144" name="natamycine" enummer="235" moslims="0" />
+    <ingredient id="145" name="natriumnitraat" enummer="251" moslims="0" />
+    <ingredient id="146" name="natriumnitriet" enummer="250" moslims="0" />
+    <ingredient id="147" name="natriumorthofenylfenol" enummer="232" moslims="0" />
+    <ingredient id="148" name="natriumtetraboraat" enummer="285" moslims="0" />
+    <ingredient id="150" name="nisine" enummer="234" moslims="0" />
+    <ingredient id="151" name="orthofenylfenol" enummer="231" moslims="0" />
+    <ingredient id="152" name="propionaten" enummer="" moslims="0" />
+    <ingredient id="153" name="calciumpropionaat" enummer="282" moslims="0" />
+    <ingredient id="154" name="kaliumpropionaat" enummer="283" moslims="0" />
+    <ingredient id="155" name="natriumpropionaat" enummer="281" moslims="0" />
+    <ingredient id="156" name="propionzuur" enummer="280" moslims="0" />
+    <ingredient id="157" name="sorbaten" enummer="" moslims="0" />
+    <ingredient id="158" name="calciumsorbaat" enummer="203" moslims="0" />
+    <ingredient id="159" name="kaliumsorbaat" enummer="202" moslims="0" />
+    <ingredient id="160" name="sorbinezuur" enummer="200" moslims="0" />
+    <ingredient id="161" name="sulfieten" enummer="" moslims="0" />
+    <ingredient id="162" name="calciumbisulfiet" enummer="227" moslims="0" />
+    <ingredient id="163" name="calciumwaterstofsulfiet" enummer="227" moslims="0" />
+    <ingredient id="164" name="calciumsulfiet" enummer="226" moslims="0" />
+    <ingredient id="165" name="kaliumbisulfiet" enummer="228" moslims="0" />
+    <ingredient id="166" name="kaliummetabisulfiet" enummer="224" moslims="0" />
+    <ingredient id="167" name="natriumbisulfiet" enummer="222" moslims="0" />
+    <ingredient id="168" name="natriummetabisulfiet" enummer="223" moslims="0" />
+    <ingredient id="169" name="natriumsulfiet" enummer="221" moslims="0" />
+    <ingredient id="170" name="thiabendazool" enummer="233" moslims="0" />
+    <ingredient id="171" name="wei-eiwitproducten" enummer="" moslims="0" />
+    <ingredient id="172" name="zout" enummer="" moslims="0" />
+    <ingredient id="173" name="zwaveldioxide (S02)" enummer="220" moslims="0" />
+    <ingredient id="174" name="antioxydanten (algemeen)" enummer="" moslims="0" />
+    <ingredient id="175" name="ascorbaten" enummer="" moslims="0" />
+    <ingredient id="176" name="calciumascorbaat" enummer="302" moslims="0" />
+    <ingredient id="177" name="natriumascorbaat" enummer="301" moslims="0" />
+    <ingredient id="178" name="natriumisoascorbaat" enummer="" moslims="0" />
+    <ingredient id="179" name="vetzuuresters van ascorbinezuur" enummer="" moslims="0" />
+    <ingredient id="181" name="ascorbinezuur" enummer="300" moslims="0" />
+    <ingredient id="182" name="butylhydroxyanisol (BHA)" enummer="320" moslims="0" />
+    <ingredient id="183" name="butylhydroxytolueen (BHT)" enummer="" moslims="0" />
+    <ingredient id="185" name="cuttermixen" enummer="" moslims="0" />
+    <ingredient id="186" name="erythorbinezuur" enummer="315" moslims="0" />
+    <ingredient id="187" name="gallaten" enummer="" moslims="0" />
+    <ingredient id="188" name="dodecylgallaat" enummer="312" moslims="0" />
+    <ingredient id="189" name="octylgallaat" enummer="311" moslims="0" />
+    <ingredient id="190" name="propylgallaat" enummer="310" moslims="0" />
+    <ingredient id="191" name="natriumerythorbaat" enummer="316" moslims="0" />
+    <ingredient id="192" name="oxidatieremmende extracten" enummer="" moslims="0" />
+    <ingredient id="193" name="tocoferolen" enummer="" moslims="0" />
+    <ingredient id="194" name="alfa-tocoferol" enummer="307" moslims="0" />
+    <ingredient id="195" name="delta-tocoferol" enummer="309" moslims="0" />
+    <ingredient id="196" name="gamma-tocoferol" enummer="308" moslims="0" />
+    <ingredient id="197" name="tocoferolrijke extracten" enummer="306" moslims="0" />
+    <ingredient id="198" name="ammoniumfosfatiden" enummer="442" moslims="1" />
+    <ingredient id="201" name="bifenyl" enummer="230" moslims="0" />
+    <ingredient id="204" name="calciumstearoyl-2-lactylaat" enummer="482" moslims="1" />
+    <ingredient id="205" name="carboxymethylcellulose" enummer="466" moslims="0" />
+    <ingredient id="206" name="natriumcarboxymethylcellulose" enummer="466" moslims="0" />
+    <ingredient id="207" name="vernet natriumcarboxymethylcellulose" enummer="468" moslims="0" />
+    <ingredient id="208" name="enzymatisch gehydrolyseerde carboxymethylcellulose" enummer="469" moslims="0" />
+    <ingredient id="209" name="difenyl" enummer="230" moslims="0" />
+    <ingredient id="210" name="vernet carboxymethylcellulose" enummer="" moslims="0" />
+    <ingredient id="212" name="caseïnaten" enummer="" moslims="0" />
+    <ingredient id="214" name="citroenzuuresters" enummer="" moslims="0" />
+    <ingredient id="216" name="DAWE-ester" enummer="" moslims="0" />
+    <ingredient id="217" name="eipoeder" enummer="" moslims="0" />
+    <ingredient id="218" name="eiproducten" enummer="" moslims="0" />
+    <ingredient id="219" name="eiwithydrolysaten" enummer="" moslims="0" />
+    <ingredient id="220" name="eiwitten" enummer="" moslims="0" />
+    <ingredient id="221" name="emulgatoren (algemeen)" enummer="" moslims="0" />
+    <ingredient id="222" name="fosfaten" enummer="" moslims="0" />
+    <ingredient id="223" name="calciumfosfaten" enummer="341" moslims="0" />
+    <ingredient id="224" name="difosfaten" enummer="450" moslims="0" />
+    <ingredient id="225" name="kaliumfosfaten" enummer="340" moslims="0" />
+    <ingredient id="226" name="natriumaluminiumfosfaat (basisch)" enummer="541" moslims="0" />
+    <ingredient id="227" name="natriumaluminiumfosfaat (zuur)" enummer="541" moslims="0" />
+    <ingredient id="228" name="natriumfosfaten" enummer="339" moslims="0" />
+    <ingredient id="229" name="polyfosfaten" enummer="452" moslims="0" />
+    <ingredient id="230" name="trifosfaten" enummer="451" moslims="0" />
+    <ingredient id="231" name="lecithine" enummer="322" moslims="0" />
+    <ingredient id="232" name="melkeiwitten" enummer="" moslims="0" />
+    <ingredient id="233" name="mono- en diglyceriden van vetzuren" enummer="471" moslims="1" />
+    <ingredient id="237" name="mono- en diglyceriden van vetzuren veresterd met azijnzuur" enummer="472a" moslims="1" />
+    <ingredient id="238" name="mono- en diglyceriden van vetzuren veresterd met azijnzuur en wijnsteenzuur" enummer="472f" moslims="1" />
+    <ingredient id="240" name="mono- en diglyceriden van vetzuren veresterd met citroenzuur" enummer="472c" moslims="1" />
+    <ingredient id="241" name="mono- en diglyceriden van vetzuren veresterd met melkzuur" enummer="472b" moslims="1" />
+    <ingredient id="242" name="mono- en diglyceriden van vetzuren veresterd met monoacetyl- en diacetylwijnsteenzuur" enummer="472e" moslims="1" />
+    <ingredient id="244" name="mono- en diglyceriden van vetzuren veresterd met wijnsteenzuur" enummer="472d" moslims="1" />
+    <ingredient id="245" name="natriumstaroyl-2-lactylaat" enummer="481" moslims="1" />
+    <ingredient id="246" name="polyglycerolesters van vetzuren" enummer="475" moslims="1" />
+    <ingredient id="248" name="polyglycerolpolyricinoleaat" enummer="476" moslims="1" />
+    <ingredient id="249" name="polyoxyetheen-sorbitaan van vetzure esters" enummer="" moslims="0" />
+    <ingredient id="251" name="polyoxyethyleen-20-sorbitaanmonolauraat" enummer="432" moslims="1" />
+    <ingredient id="253" name="polysorbaat 20" enummer="432" moslims="0" />
+    <ingredient id="254" name="polyoxyethyleen-20-sorbitaanmono-oleaat" enummer="433" moslims="1" />
+    <ingredient id="256" name="polysorbaat 80" enummer="433" moslims="0" />
+    <ingredient id="257" name="polyoxyethyleen-20-sorbitaan-monopalmitaat" enummer="434" moslims="0" />
+    <ingredient id="258" name="polysorbaat 40" enummer="434" moslims="0" />
+    <ingredient id="260" name="polyoxyethyleen-20-sorbitaan-monostearaat" enummer="435" moslims="1" />
+    <ingredient id="261" name="polysorbaat 60" enummer="435" moslims="1" />
+    <ingredient id="263" name="polyoxyethyleen-20-sorbitaan-tristearaat" enummer="436" moslims="1" />
+    <ingredient id="265" name="polysorbaat 65" enummer="436" moslims="1" />
+    <ingredient id="266" name="polyoxyethyleen-40-stearaat" enummer="431" moslims="1" />
+    <ingredient id="268" name="polyvinylpolypyrrolidon" enummer="1202" moslims="0" />
+    <ingredient id="269" name="polyvinylpyrrolidon" enummer="1201" moslims="0" />
+    <ingredient id="270" name="propyleenglycolesters van vetzuren" enummer="477" moslims="1" />
+    <ingredient id="272" name="sojabloem" enummer="" moslims="0" />
+    <ingredient id="273" name="sojaeiwit" enummer="" moslims="0" />
+    <ingredient id="274" name="sorbitaan van vetzure esters" enummer="" moslims="0" />
+    <ingredient id="275" name="sorbitaanmonolauraat" enummer="493" moslims="1" />
+    <ingredient id="276" name="sorbitaanmono-oleaat" enummer="494" moslims="1" />
+    <ingredient id="277" name="sorbitaanmonopalmitaat" enummer="495" moslims="1" />
+    <ingredient id="279" name="sorbitaanmonostearaat" enummer="491" moslims="1" />
+    <ingredient id="280" name="sorbitaantristearaat" enummer="492" moslims="1" />
+    <ingredient id="281" name="spuitpekels" enummer="" moslims="0" />
+    <ingredient id="282" name="stearaten" enummer="" moslims="1" />
+    <ingredient id="283" name="sucroglyceriden" enummer="474" moslims="1" />
+    <ingredient id="284" name="sucrose-vetzuuresters" enummer="473" moslims="1" />
+    <ingredient id="285" name="tarwe-eiwit" enummer="" moslims="0" />
+    <ingredient id="286" name="thermisch geoxideerde sojaolie (verkregen door reactie met mono- en diglyceriden van vetzuren)" enummer="479b" moslims="1" />
+    <ingredient id="295" name="magnesiumzouten van vetzuren" enummer="470b" moslims="1" />
+    <ingredient id="297" name="natriumzouten van vetzuren" enummer="470a" moslims="1" />
+    <ingredient id="298" name="calciumzouten van vetzuren" enummer="470a" moslims="1" />
+    <ingredient id="300" name="calciumchloride" enummer="509" moslims="0" />
+    <ingredient id="310" name="fosforzuur" enummer="338" moslims="0" />
+    <ingredient id="311" name="smeltzouten (algemeen)" enummer="" moslims="0" />
+    <ingredient id="312" name="aardappelmeel" enummer="" moslims="0" />
+    <ingredient id="313" name="aardappelmeelderivaten" enummer="" moslims="0" />
+    <ingredient id="314" name="agar-agar" enummer="406" moslims="0" />
+    <ingredient id="315" name="alginaten" enummer="" moslims="0" />
+    <ingredient id="316" name="1,2-propyleenglycolalginaat" enummer="405" moslims="0" />
+    <ingredient id="318" name="ammoniumalginaat" enummer="403" moslims="0" />
+    <ingredient id="319" name="calciumalginaat" enummer="404" moslims="0" />
+    <ingredient id="320" name="kaliumalginaat" enummer="402" moslims="0" />
+    <ingredient id="321" name="natriumalginaat" enummer="401" moslims="0" />
+    <ingredient id="322" name="alginezuur" enummer="400" moslims="0" />
+    <ingredient id="331" name="carrageen" enummer="407" moslims="0" />
+    <ingredient id="332" name="cellulose" enummer="460" moslims="0" />
+    <ingredient id="334" name="gommen" enummer="" moslims="0" />
+    <ingredient id="335" name="arabische gom" enummer="414" moslims="0" />
+    <ingredient id="336" name="gellaangom" enummer="418" moslims="0" />
+    <ingredient id="337" name="guarpitmeel" enummer="412" moslims="0" />
+    <ingredient id="338" name="karayagom" enummer="416" moslims="0" />
+    <ingredient id="339" name="konjac" enummer="425" moslims="0" />
+    <ingredient id="340" name="taragom" enummer="417" moslims="0" />
+    <ingredient id="341" name="xanthaangom" enummer="415" moslims="0" />
+    <ingredient id="342" name="hydroxypropyidizetmeelfosfaat" enummer="1442" moslims="0" />
+    <ingredient id="344" name="hydroxypropylcellulose" enummer="463" moslims="0" />
+    <ingredient id="345" name="hydroxypropylmethylcellulose" enummer="464" moslims="0" />
+    <ingredient id="347" name="hydroxypropylzetmeel" enummer="1440" moslims="0" />
+    <ingredient id="348" name="johannesbroodpitmeel" enummer="410" moslims="0" />
+    <ingredient id="350" name="meel (hittebehandeld)" enummer="" moslims="0" />
+    <ingredient id="352" name="pectinen N" enummer="440" moslims="0" />
+    <ingredient id="355" name="tragacanth" enummer="413" moslims="0" />
+    <ingredient id="356" name="troebleermiddelen" enummer="" moslims="0" />
+    <ingredient id="357" name="verdikkingsmiddelen (algemeen)" enummer="" moslims="0" />
+    <ingredient id="359" name="zetmeel" enummer="" moslims="0" />
+    <ingredient id="360" name="zetmeelderivaten" enummer="" moslims="0" />
+    <ingredient id="362" name="afdekgelei" enummer="" moslims="0" />
+    <ingredient id="372" name="aspicpoeder" enummer="" moslims="0" />
+    <ingredient id="381" name="CMC" enummer="" moslims="0" />
+    <ingredient id="385" name="eucheumawier (verwerkt)" enummer="407a" moslims="0" />
+    <ingredient id="396" name="furcelleraan" enummer="408" moslims="0" />
+    <ingredient id="397" name="gelatine" enummer="" moslims="1" />
+    <ingredient id="398" name="geleermiddelen (algemeen)" enummer="" moslims="0" />
+    <ingredient id="401" name="hydroxypropyldizetmeelfosfaat" enummer="1442" moslims="0" />
+    <ingredient id="424" name="carbamide" enummer="927b" moslims="0" />
+    <ingredient id="433" name="caseïne" enummer="" moslims="0" />
+    <ingredient id="449" name="glycerolesters van houthars" enummer="445" moslims="0" />
+    <ingredient id="465" name="inuline" enummer="" moslims="0" />
+    <ingredient id="467" name="kaliumchloriden" enummer="508" moslims="0" />
+    <ingredient id="469" name="meelverbetermiddelen" enummer="" moslims="0" />
+    <ingredient id="472" name="quillaja-extract" enummer="999" moslims="0" />
+    <ingredient id="475" name="sorbitol" enummer="420" moslims="0" />
+    <ingredient id="477" name="stabilisatoren (algemeen)" enummer="" moslims="0" />
+    <ingredient id="478" name="stabilisatoren voor waterijs" enummer="" moslims="0" />
+    <ingredient id="479" name="stabilisatoren voor roomijs" enummer="" moslims="0" />
+    <ingredient id="481" name="sucroseacetaatisobutyraat" enummer="444" moslims="0" />
+    <ingredient id="482" name="sulfaten" enummer="" moslims="0" />
+    <ingredient id="483" name="aluminiumammoniumsulfaat" enummer="523" moslims="0" />
+    <ingredient id="485" name="aluminiumkaliumsulfaat" enummer="522" moslims="0" />
+    <ingredient id="486" name="aluminiumnatriumsulfaat" enummer="521" moslims="0" />
+    <ingredient id="488" name="aluminiumsulfaat" enummer="520" moslims="0" />
+    <ingredient id="489" name="ammoniumsulfaat" enummer="517" moslims="0" />
+    <ingredient id="490" name="kaliumsulfaat" enummer="515" moslims="0" />
+    <ingredient id="491" name="natriumsulfaten" enummer="514" moslims="0" />
+    <ingredient id="493" name="tinchloride" enummer="512" moslims="0" />
+    <ingredient id="496" name="weipoeder" enummer="" moslims="0" />
+    <ingredient id="499" name="calcium-5'-ribonucleotiden" enummer="634" moslims="1" />
+    <ingredient id="501" name="citroenzuur" enummer="330" moslims="0" />
+    <ingredient id="502" name="dinatrium-(5')-ribonucleotiden" enummer="" moslims="0" />
+    <ingredient id="505" name="gist" enummer="" moslims="0" />
+    <ingredient id="506" name="gistautolysaat" enummer="" moslims="0" />
+    <ingredient id="507" name="glutamaten" enummer="" moslims="0" />
+    <ingredient id="508" name="calciumdiglutamaat" enummer="623" moslims="0" />
+    <ingredient id="509" name="magnesiumdiglutamaat" enummer="" moslims="0" />
+    <ingredient id="511" name="monoammoniumglutamaat" enummer="" moslims="0" />
+    <ingredient id="513" name="monokaliumgiutamaat" enummer="622" moslims="0" />
+    <ingredient id="514" name="mononatriumgiutamaat" enummer="" moslims="0" />
+    <ingredient id="516" name="glutaminezuur" enummer="620" moslims="0" />
+    <ingredient id="517" name="guanylaten" enummer="" moslims="0" />
+    <ingredient id="518" name="calciumguanylaat" enummer="629" moslims="0" />
+    <ingredient id="519" name="kaliumguanylaat" enummer="628" moslims="0" />
+    <ingredient id="520" name="natriumguanylaat" enummer="627" moslims="0" />
+    <ingredient id="521" name="guanylzuur" enummer="626" moslims="0" />
+    <ingredient id="522" name="inosinaten" enummer="" moslims="1" />
+    <ingredient id="523" name="calciuminosinaat" enummer="633" moslims="1" />
+    <ingredient id="524" name="dikaliuminosinaat" enummer="632" moslims="1" />
+    <ingredient id="525" name="dinatriuminosinaat" enummer="631" moslims="1" />
+    <ingredient id="526" name="inosinezuur" enummer="630" moslims="1" />
+    <ingredient id="527" name="melkzuur" enummer="270" moslims="0" />
+    <ingredient id="528" name="oligofructose" enummer="" moslims="0" />
+    <ingredient id="529" name="smaakversterkers (algemeen)" enummer="" moslims="0" />
+    <ingredient id="533" name="cellolose-acetaat" enummer="" moslims="0" />
+    <ingredient id="536" name="adipinezuur" enummer="255" moslims="0" />
+    <ingredient id="537" name="appelzuur" enummer="296" moslims="0" />
+    <ingredient id="539" name="barnsteenzuur" enummer="363" moslims="0" />
+    <ingredient id="540" name="citraten" enummer="" moslims="0" />
+    <ingredient id="541" name="calciumcitraten" enummer="333" moslims="0" />
+    <ingredient id="542" name="kaliumcitraten" enummer="332" moslims="0" />
+    <ingredient id="543" name="natriumcitraten" enummer="331" moslims="0" />
+    <ingredient id="544" name="triammoniumcitraat" enummer="380" moslims="0" />
+    <ingredient id="547" name="fumaarzuur" enummer="297" moslims="0" />
+    <ingredient id="548" name="fumaarzuur (gecoat)" enummer="297" moslims="0" />
+    <ingredient id="549" name="gluconaten" enummer="" moslims="0" />
+    <ingredient id="550" name="calciumgluconaat" enummer="578" moslims="0" />
+    <ingredient id="551" name="kaliumgluconaat" enummer="577" moslims="0" />
+    <ingredient id="552" name="natriumgluconaat" enummer="576" moslims="0" />
+    <ingredient id="553" name="glucono-delta-lacton" enummer="" moslims="0" />
+    <ingredient id="555" name="gluconzuur" enummer="574" moslims="0" />
+    <ingredient id="556" name="lactaten" enummer="" moslims="0" />
+    <ingredient id="557" name="calciumlactaat" enummer="327" moslims="0" />
+    <ingredient id="558" name="kaliumlactaat" enummer="326" moslims="0" />
+    <ingredient id="559" name="natriumlactaat" enummer="325" moslims="0" />
+    <ingredient id="561" name="tartraten" enummer="" moslims="0" />
+    <ingredient id="562" name="calciumtartraten" enummer="354" moslims="0" />
+    <ingredient id="563" name="kaliumtartraten" enummer="336" moslims="0" />
+    <ingredient id="564" name="natriumkaliumtartraat" enummer="337" moslims="0" />
+    <ingredient id="565" name="natriumtartraten" enummer="335" moslims="0" />
+    <ingredient id="566" name="stearyltartraat" enummer="483" moslims="1" />
+    <ingredient id="567" name="voedingszuren (algemeen)" enummer="" moslims="0" />
+    <ingredient id="568" name="voedingszuren (gecoat)" enummer="" moslims="0" />
+    <ingredient id="569" name="wijnsteenzuur" enummer="334" moslims="0" />
+    <ingredient id="575" name="ammoniumhydroxide" enummer="527" moslims="0" />
+    <ingredient id="585" name="calciumhydroxide" enummer="526" moslims="0" />
+    <ingredient id="586" name="calciumoxide" enummer="529" moslims="0" />
+    <ingredient id="596" name="difosfaat" enummer="450" moslims="0" />
+    <ingredient id="604" name="glycine" enummer="640" moslims="1" />
+    <ingredient id="605" name="natriumdiacetaat" enummer="262" moslims="0" />
+    <ingredient id="606" name="kaliumadipaat" enummer="357" moslims="0" />
+    <ingredient id="607" name="kaliumhydroxide" enummer="525" moslims="0" />
+    <ingredient id="612" name="magnesiumchloride" enummer="511" moslims="0" />
+    <ingredient id="613" name="magnesiumhydroxide" enummer="528" moslims="0" />
+    <ingredient id="614" name="magnesiumoxide" enummer="530" moslims="0" />
+    <ingredient id="615" name="malaten" enummer="" moslims="0" />
+    <ingredient id="616" name="calciummalaten" enummer="352" moslims="0" />
+    <ingredient id="617" name="kaliummalaat" enummer="351" moslims="0" />
+    <ingredient id="618" name="natriummalaten" enummer="350" moslims="0" />
+    <ingredient id="620" name="natriumadipaat" enummer="356" moslims="0" />
+    <ingredient id="621" name="natriumhydroxide" enummer="524" moslims="0" />
+    <ingredient id="622" name="rijpingsmiddel" enummer="" moslims="0" />
+    <ingredient id="625" name="calciumtartraat" enummer="354" moslims="0" />
+    <ingredient id="631" name="zoutzuur" enummer="507" moslims="0" />
+    <ingredient id="632" name="zuurteregelaars (algemeen)" enummer="" moslims="0" />
+    <ingredient id="634" name="zwavelzuur" enummer="513" moslims="0" />
+    <ingredient id="635" name="antiklontermiddelen (algemeen)" enummer="" moslims="0" />
+    <ingredient id="637" name="calciumcarbonaat" enummer="170" moslims="0" />
+    <ingredient id="639" name="calciumferrocyanide" enummer="538" moslims="0" />
+    <ingredient id="650" name="kaliumferrocyanide" enummer="536" moslims="0" />
+    <ingredient id="651" name="kiezelzuursilicumdioxide" enummer="551" moslims="0" />
+    <ingredient id="652" name="natriumferrocyanide" enummer="535" moslims="0" />
+    <ingredient id="653" name="silicaten" enummer="" moslims="0" />
+    <ingredient id="654" name="bentoniet" enummer="558" moslims="0" />
+    <ingredient id="655" name="calciumaluminiumsilicaat" enummer="" moslims="0" />
+    <ingredient id="657" name="calciumsilicaat" enummer="552" moslims="0" />
+    <ingredient id="658" name="kaliumaluminiumsilicaat" enummer="555" moslims="0" />
+    <ingredient id="659" name="kaolinaluminiumsilicaat" enummer="559" moslims="0" />
+    <ingredient id="660" name="magnesiumsilicaat" enummer="553a" moslims="0" />
+    <ingredient id="661" name="magnesiumtrisilicaat" enummer="553a" moslims="0" />
+    <ingredient id="663" name="natriumaluminiumsilicaat" enummer="" moslims="0" />
+    <ingredient id="665" name="siliciumdioxide" enummer="551" moslims="0" />
+    <ingredient id="668" name="aardappelzetmeelderivaten" enummer="" moslims="0" />
+    <ingredient id="669" name="dizetmeelfosfaat" enummer="1412" moslims="0" />
+    <ingredient id="670" name="geacetyleerd dizetmeeladipaat" enummer="1422" moslims="0" />
+    <ingredient id="672" name="geacetyleerd dizetmeelfosfaat" enummer="1414" moslims="0" />
+    <ingredient id="674" name="geacetyleerd zetmeel" enummer="1420" moslims="0" />
+    <ingredient id="675" name="gefosfateerd dizetmeelfosfaat" enummer="1413" moslims="0" />
+    <ingredient id="677" name="monozetmeelfosfaat" enummer="1410" moslims="0" />
+    <ingredient id="678" name="geoxideerd zetmeel" enummer="1404" moslims="0" />
+    <ingredient id="680" name="zetmeelnatriumoctenylsuccinaat" enummer="1450" moslims="0" />
+    <ingredient id="682" name="acesulfaam" enummer="950" moslims="0" />
+    <ingredient id="683" name="aspartaam" enummer="951" moslims="0" />
+    <ingredient id="684" name="cyclaamzuur" enummer="952" moslims="0" />
+    <ingredient id="685" name="calciumzout van cyclaamzuur" enummer="952" moslims="0" />
+    <ingredient id="686" name="fructose" enummer="" moslims="0" />
+    <ingredient id="687" name="isomalt" enummer="953" moslims="0" />
+    <ingredient id="688" name="lactitol" enummer="966" moslims="0" />
+    <ingredient id="689" name="maltitol" enummer="965" moslims="0" />
+    <ingredient id="690" name="mannitol" enummer="421" moslims="0" />
+    <ingredient id="691" name="neohesperidine-DC" enummer="959" moslims="0" />
+    <ingredient id="692" name="saccharine" enummer="954" moslims="0" />
+    <ingredient id="693" name="sacharine" enummer="954" moslims="0" />
+    <ingredient id="695" name="sucralose" enummer="" moslims="0" />
+    <ingredient id="696" name="thaumatine" enummer="957" moslims="0" />
+    <ingredient id="697" name="xylitol" enummer="967" moslims="0" />
+    <ingredient id="698" name="zoetstoffen (algemeen)" enummer="" moslims="0" />
+    <ingredient id="699" name="bakpoeder" enummer="" moslims="0" />
+    <ingredient id="700" name="carbonaten" enummer="" moslims="0" />
+    <ingredient id="701" name="ammoniumcarbonaten" enummer="503" moslims="0" />
+    <ingredient id="702" name="kaliumcarbonaten" enummer="501" moslims="0" />
+    <ingredient id="703" name="magnesiumcarbonaten" enummer="504" moslims="0" />
+    <ingredient id="704" name="natriumcarbonaten" enummer="500" moslims="0" />
+    <ingredient id="705" name="natriumwaterstofcarbonaat" enummer="" moslims="0" />
+    <ingredient id="717" name="koolzuur (CO2)" enummer="290" moslims="0" />
+    <ingredient id="719" name="antischuimmiddelen (algemeen)" enummer="" moslims="0" />
+    <ingredient id="720" name="dimethylpolysiloxaan" enummer="900" moslims="0" />
+    <ingredient id="721" name="dextrine" enummer="" moslims="0" />
+    <ingredient id="722" name="doorhaaleiwit" enummer="" moslims="0" />
+    <ingredient id="723" name="esters van montaanzuur" enummer="912" moslims="0" />
+    <ingredient id="725" name="geoxideerde polyethyleenwas" enummer="" moslims="0" />
+    <ingredient id="727" name="glansmiddelen (algemeen)" enummer="" moslims="0" />
+    <ingredient id="728" name="schellak" enummer="904" moslims="1" />
+    <ingredient id="729" name="wassen" enummer="" moslims="0" />
+    <ingredient id="730" name="bijenwas" enummer="901" moslims="0" />
+    <ingredient id="731" name="candellilawas" enummer="902" moslims="0" />
+    <ingredient id="732" name="carnaubawas" enummer="903" moslims="0" />
+    <ingredient id="733" name="microkristallijne was E 905" enummer="905" moslims="0" />
+    <ingredient id="736" name="aminozuren" enummer="" moslims="0" />
+    <ingredient id="745" name="broodverbeteraars (algemeen)" enummer="" moslims="0" />
+    <ingredient id="748" name="eiwittencysteine" enummer="920" moslims="1" />
+    <ingredient id="749" name="emulgatoren" enummer="" moslims="0" />
+    <ingredient id="760" name="glucosestropen" enummer="" moslims="0" />
+    <ingredient id="761" name="gluten" enummer="" moslims="0" />
+    <ingredient id="764" name="meelverbeteraars (algemeen)" enummer="" moslims="0" />
+    <ingredient id="780" name="ethylmethylcellulose" enummer="465" moslims="0" />
+    <ingredient id="782" name="geleermiddelen" enummer="" moslims="0" />
+    <ingredient id="784" name="gommen (algemeen)" enummer="" moslims="0" />
+    <ingredient id="791" name="methylcellulose" enummer="461" moslims="0" />
+    <ingredient id="792" name="voedingsvezel" enummer="" moslims="0" />
+    <ingredient id="793" name="glycerol" enummer="422" moslims="0" />
+    <ingredient id="796" name="calciumdinatriumethyleendiaminetetraacetaat" enummer="385" moslims="0" />
+    <ingredient id="797" name="calciumdinatrium-EDTA" enummer="385" moslims="0" />
+    <ingredient id="799" name="calciumsulfaat" enummer="516" moslims="0" />
+    <ingredient id="816" name="metawijnsteenzuur" enummer="353" moslims="0" />
+    <ingredient id="817" name="sequestreermiddelen" enummer="" moslims="0" />
+    <ingredient id="825" name="bloem" enummer="" moslims="0" />
+    <ingredient id="830" name="meel" enummer="" moslims="0" />
+    <ingredient id="831" name="polydextrose" enummer="1200" moslims="0" />
+    <ingredient id="834" name="vulstoffen (algemeen)" enummer="" moslims="0" />
+    <ingredient id="836" name="argon" enummer="938" moslims="0" />
+    <ingredient id="837" name="distikstofoxide" enummer="942" moslims="0" />
+    <ingredient id="838" name="helium" enummer="939" moslims="0" />
+    <ingredient id="839" name="kooldioxide (CO2)" enummer="290" moslims="0" />
+    <ingredient id="840" name="lachgas" enummer="" moslims="0" />
+    <ingredient id="841" name="stikstof(gas)" enummer="941" moslims="0" />
+    <ingredient id="842" name="zuurstof" enummer="948" moslims="0" />
+    <ingredient id="843" name="applicatiegerichte aroma's" enummer="" moslims="0" />
+    <ingredient id="844" name="applicatiegerichte aroma's (gecoat)" enummer="" moslims="0" />
+    <ingredient id="845" name="aroma's voor alcoholische dranken" enummer="" moslims="0" />
+    <ingredient id="848" name="likeur" enummer="" moslims="1" />
+    <ingredient id="849" name="hoparoma" enummer="" moslims="0" />
+    <ingredient id="850" name="gedistilleerd aroma" enummer="" moslims="0" />
+    <ingredient id="851" name="wijnaroma" enummer="" moslims="1" />
+    <ingredient id="852" name="aroma's voor bakkerijproducten" enummer="" moslims="0" />
+    <ingredient id="855" name="aroma's voor conserven" enummer="" moslims="0" />
+    <ingredient id="858" name="champignonaroma" enummer="" moslims="0" />
+    <ingredient id="859" name="exotische groentenaroma" enummer="" moslims="0" />
+    <ingredient id="860" name="groene groentenaroma" enummer="" moslims="0" />
+    <ingredient id="861" name="tomatenaroma" enummer="" moslims="0" />
+    <ingredient id="862" name="uienaroma" enummer="" moslims="0" />
+    <ingredient id="863" name="wortelaroma" enummer="" moslims="0" />
+    <ingredient id="864" name="aroma's voor consumptieijs" enummer="" moslims="0" />
+    <ingredient id="865" name="aroma's voor diepvriesdesserts" enummer="" moslims="0" />
+    <ingredient id="869" name="aroma's voor diverse producten" enummer="" moslims="0" />
+    <ingredient id="872" name="aroma's voor frisdranken" enummer="" moslims="0" />
+    <ingredient id="875" name="cola-aroma" enummer="" moslims="0" />
+    <ingredient id="876" name="aroma's voor geëxtrudeerde producten" enummer="" moslims="0" />
+    <ingredient id="880" name="aroma's voor jam en (vruchten)gelei" enummer="" moslims="0" />
+    <ingredient id="884" name="aroma's voor kant-en-klaarmaaltijden" enummer="" moslims="0" />
+    <ingredient id="888" name="aroma's voor kruiden en seasonings" enummer="" moslims="0" />
+    <ingredient id="890" name="aroma's voor magnetron producten" enummer="" moslims="0" />
+    <ingredient id="894" name="aroma's voor pluimveevleesproducten" enummer="" moslims="0" />
+    <ingredient id="899" name="eendaroma" enummer="" moslims="0" />
+    <ingredient id="900" name="kalkoenaroma" enummer="" moslims="0" />
+    <ingredient id="901" name="kiparoma" enummer="" moslims="0" />
+    <ingredient id="902" name="wildaroma" enummer="" moslims="1" />
+    <ingredient id="903" name="aroma's voor poedermixen" enummer="" moslims="0" />
+    <ingredient id="906" name="aroma's voor snacks" enummer="" moslims="0" />
+    <ingredient id="909" name="aroma's voor thee" enummer="" moslims="0" />
+    <ingredient id="912" name="aroma's voor UHT-producten" enummer="" moslims="0" />
+    <ingredient id="915" name="aroma's voor visproducten" enummer="" moslims="0" />
+    <ingredient id="918" name="schaaldieraroma" enummer="" moslims="0" />
+    <ingredient id="919" name="visaroma" enummer="" moslims="0" />
+    <ingredient id="920" name="zeevisaroma" enummer="" moslims="0" />
+    <ingredient id="921" name="zoetwatervisaroma" enummer="" moslims="0" />
+    <ingredient id="922" name="aroma's voor vleesproducten" enummer="" moslims="0" />
+    <ingredient id="923" name="visaroma (gerookte)" enummer="" moslims="0" />
+    <ingredient id="925" name="baconaroma" enummer="" moslims="1" />
+    <ingredient id="926" name="hamaroma" enummer="" moslims="1" />
+    <ingredient id="927" name="lamsvleesaroma" enummer="" moslims="1" />
+    <ingredient id="928" name="kalfsvleesaroma" enummer="" moslims="1" />
+    <ingredient id="929" name="leveraroma" enummer="" moslims="1" />
+    <ingredient id="930" name="rundvleesaroma" enummer="" moslims="1" />
+    <ingredient id="931" name="varkensvleesaroma" enummer="" moslims="1" />
+    <ingredient id="933" name="aroma's voor yoghurt en gekoelde desserts" enummer="" moslims="0" />
+    <ingredient id="934" name="baconaroma (gerookte)" enummer="" moslims="1" />
+    <ingredient id="935" name="hamaroma (gerookte)" enummer="" moslims="1" />
+    <ingredient id="937" name="zoethout" enummer="" moslims="0" />
+    <ingredient id="938" name="aroma's voor zoetwaren" enummer="" moslims="0" />
+    <ingredient id="939" name="karamelaroma" enummer="" moslims="0" />
+    <ingredient id="941" name="butterscotcharoma" enummer="" moslims="0" />
+    <ingredient id="942" name="chocoladearoma" enummer="" moslims="0" />
+    <ingredient id="943" name="toffeearoma" enummer="" moslims="0" />
+    <ingredient id="944" name="droparoma" enummer="" moslims="0" />
+    <ingredient id="945" name="kaasaroma's" enummer="" moslims="0" />
+    <ingredient id="946" name="calcium" enummer="" moslims="0" />
+    <ingredient id="950" name="calciumglycerofosfaat" enummer="" moslims="0" />
+    <ingredient id="954" name="calciumzouten van citroenzuur" enummer="" moslims="0" />
+    <ingredient id="955" name="calciumzouten van orthofosforzuur" enummer="" moslims="0" />
+    <ingredient id="957" name="chloor" enummer="" moslims="0" />
+    <ingredient id="958" name="ammoniumchloride" enummer="" moslims="0" />
+    <ingredient id="960" name="kaliumchloride" enummer="" moslims="0" />
+    <ingredient id="962" name="mangaanchloride" enummer="" moslims="0" />
+    <ingredient id="963" name="natriumchloride" enummer="" moslims="0" />
+    <ingredient id="964" name="zinkchloride" enummer="" moslims="0" />
+    <ingredient id="965" name="chroom" enummer="" moslims="0" />
+    <ingredient id="966" name="chromium(III)chloride" enummer="" moslims="0" />
+    <ingredient id="967" name="chromium(III)citraat" enummer="" moslims="0" />
+    <ingredient id="968" name="chromium(lll)gluconaat" enummer="" moslims="0" />
+    <ingredient id="969" name="chromium(III)picolinaat" enummer="" moslims="0" />
+    <ingredient id="970" name="chromium(III)sulfaat" enummer="" moslims="0" />
+    <ingredient id="971" name="D-biotine" enummer="" moslims="0" />
+    <ingredient id="972" name="essentiële vetzuren" enummer="" moslims="0" />
+    <ingredient id="973" name="foliumzuur" enummer="" moslims="0" />
+    <ingredient id="974" name="pteroylmonoglutaminezuur" enummer="" moslims="0" />
+    <ingredient id="975" name="fosfor" enummer="" moslims="0" />
+    <ingredient id="977" name="ijzer" enummer="" moslims="0" />
+    <ingredient id="978" name="elementair ijzer (uit carbonyl)" enummer="" moslims="0" />
+    <ingredient id="979" name="elementair ijzer (elektrolytisch bereid)" enummer="" moslims="0" />
+    <ingredient id="980" name="elementair ijzer (met waterstof gereduceerd)" enummer="" moslims="0" />
+    <ingredient id="981" name="ijzer(II)carbonaat" enummer="" moslims="0" />
+    <ingredient id="982" name="ijzer(II)citraat" enummer="" moslims="0" />
+    <ingredient id="983" name="ijzer(II)fumaraat" enummer="" moslims="0" />
+    <ingredient id="984" name="ijzer(II)gluconaat" enummer="579" moslims="0" />
+    <ingredient id="985" name="ijzer(II)lactaat" enummer="585" moslims="0" />
+    <ingredient id="986" name="ijzer(II)sulfaat" enummer="" moslims="0" />
+    <ingredient id="987" name="ijzer(III)ammoniumcitraat" enummer="" moslims="0" />
+    <ingredient id="988" name="ijzer(III)difosfaat" enummer="" moslims="0" />
+    <ingredient id="989" name="ijzer(III)pyrofosfaat" enummer="" moslims="0" />
+    <ingredient id="990" name="ijzer(III)saccharaat" enummer="" moslims="0" />
+    <ingredient id="991" name="natriumijzer(III)difosfaat" enummer="" moslims="0" />
+    <ingredient id="992" name="kalium" enummer="" moslims="0" />
+    <ingredient id="993" name="kaliumbicarbonaat" enummer="" moslims="0" />
+    <ingredient id="994" name="kaliumcarbonaat" enummer="" moslims="0" />
+    <ingredient id="996" name="kaliumgiuconaat" enummer="" moslims="0" />
+    <ingredient id="999" name="kaliumzouten van citroenzuur" enummer="" moslims="0" />
+    <ingredient id="1000" name="kaliumzouten van orthofosforzuur" enummer="" moslims="0" />
+    <ingredient id="1002" name="koper" enummer="" moslims="0" />
+    <ingredient id="1003" name="koper(II)carbonaat" enummer="" moslims="0" />
+    <ingredient id="1004" name="koper(II)citraat" enummer="" moslims="0" />
+    <ingredient id="1005" name="koper(II)gluconaat" enummer="" moslims="0" />
+    <ingredient id="1006" name="koper(II)sulfaat" enummer="" moslims="0" />
+    <ingredient id="1007" name="koper-lysine-complex" enummer="" moslims="0" />
+    <ingredient id="1008" name="magnesium" enummer="" moslims="0" />
+    <ingredient id="1009" name="magnesiumcarbonaat" enummer="" moslims="0" />
+    <ingredient id="1011" name="magnesiumgluconaat" enummer="" moslims="0" />
+    <ingredient id="1012" name="magnesiumglycerofosfaat" enummer="" moslims="0" />
+    <ingredient id="1014" name="magnesiumlactaat" enummer="" moslims="0" />
+    <ingredient id="1016" name="magnesiumsulfaat" enummer="" moslims="0" />
+    <ingredient id="1017" name="magnesiumzouten van citroenzuur" enummer="" moslims="0" />
+    <ingredient id="1019" name="magnesiumzouten van orthoforsfoszuur" enummer="" moslims="0" />
+    <ingredient id="1021" name="mangaan" enummer="" moslims="0" />
+    <ingredient id="1022" name="mangaancarbonaat" enummer="" moslims="0" />
+    <ingredient id="1024" name="mangaancitraat" enummer="" moslims="0" />
+    <ingredient id="1025" name="mangaangluconaat" enummer="" moslims="0" />
+    <ingredient id="1026" name="mangaanglycerofosfaat" enummer="" moslims="0" />
+    <ingredient id="1027" name="mangaansulfaat" enummer="" moslims="0" />
+    <ingredient id="1028" name="mineralen (algemeen)" enummer="" moslims="0" />
+    <ingredient id="1029" name="mineralenmengsels" enummer="" moslims="0" />
+    <ingredient id="1030" name="molybdeen" enummer="" moslims="0" />
+    <ingredient id="1031" name="ammonium molybdaat (VI)" enummer="" moslims="0" />
+    <ingredient id="1032" name="kalium molybdaat (VI)" enummer="" moslims="0" />
+    <ingredient id="1033" name="natrium molybdaat (VI)" enummer="" moslims="0" />
+    <ingredient id="1034" name="natrium" enummer="" moslims="0" />
+    <ingredient id="1035" name="natriumbicarbonaat" enummer="" moslims="0" />
+    <ingredient id="1036" name="natriumcarbonaat" enummer="" moslims="0" />
+    <ingredient id="1041" name="natriumzouten van citroenzuur" enummer="" moslims="0" />
+    <ingredient id="1043" name="natriumzouten van orthofosforzuur" enummer="" moslims="0" />
+    <ingredient id="1045" name="niacine" enummer="" moslims="0" />
+    <ingredient id="1046" name="nicotinamide" enummer="" moslims="0" />
+    <ingredient id="1047" name="nicotinezuur" enummer="375" moslims="0" />
+    <ingredient id="1048" name="pantotheenzuur" enummer="" moslims="0" />
+    <ingredient id="1049" name="calcium-D-pantothenaat" enummer="" moslims="0" />
+    <ingredient id="1050" name="dexpanthenol" enummer="" moslims="0" />
+    <ingredient id="1051" name="natrium-D-pantothenaat" enummer="" moslims="0" />
+    <ingredient id="1052" name="seleen" enummer="" moslims="0" />
+    <ingredient id="1053" name="natriumselenaat" enummer="" moslims="0" />
+    <ingredient id="1054" name="natriumseleniet" enummer="" moslims="0" />
+    <ingredient id="1055" name="selenocysteïne" enummer="" moslims="0" />
+    <ingredient id="1056" name="selenocystine" enummer="" moslims="0" />
+    <ingredient id="1057" name="selenomethionine" enummer="" moslims="0" />
+    <ingredient id="1058" name="vitamine A" enummer="" moslims="0" />
+    <ingredient id="1059" name="betacaroteen" enummer="160a" moslims="0" />
+    <ingredient id="1060" name="retinol" enummer="" moslims="0" />
+    <ingredient id="1061" name="retinyl-acetaat" enummer="" moslims="0" />
+    <ingredient id="1062" name="retinyl-palmitaat" enummer="" moslims="0" />
+    <ingredient id="1063" name="vitamine B1" enummer="" moslims="0" />
+    <ingredient id="1064" name="chloride" enummer="" moslims="0" />
+    <ingredient id="1065" name="thiaminemononitraat" enummer="" moslims="0" />
+    <ingredient id="1066" name="thiamine-waterstof" enummer="" moslims="0" />
+    <ingredient id="1067" name="vitamine B12" enummer="" moslims="0" />
+    <ingredient id="1068" name="cyanocobalamine" enummer="" moslims="0" />
+    <ingredient id="1069" name="hydroxocobalamine" enummer="" moslims="0" />
+    <ingredient id="1070" name="vitamine B2" enummer="" moslims="0" />
+    <ingredient id="1072" name="riboflavine-5'-natriumfosfaat" enummer="" moslims="0" />
+    <ingredient id="1073" name="vitamine B6" enummer="" moslims="0" />
+    <ingredient id="1074" name="pyridoxal-5'-fosfaat" enummer="" moslims="0" />
+    <ingredient id="1075" name="pyridoxinedipalmitaat" enummer="" moslims="0" />
+    <ingredient id="1076" name="pyridoxine-waterstofchloride" enummer="" moslims="0" />
+    <ingredient id="1077" name="vitamine C" enummer="" moslims="0" />
+    <ingredient id="1078" name="6-palmityl-L-ascorbinezuur" enummer="" moslims="0" />
+    <ingredient id="1079" name="ascorbylpalmitaat" enummer="304" moslims="1" />
+    <ingredient id="1081" name="calcium-L-ascorbaat" enummer="" moslims="0" />
+    <ingredient id="1082" name="kalium-L-ascorbaat" enummer="" moslims="0" />
+    <ingredient id="1083" name="natrium-L-ascorbaat" enummer="" moslims="0" />
+    <ingredient id="1084" name="vitamine D" enummer="" moslims="0" />
+    <ingredient id="1085" name="cholecalciferol" enummer="" moslims="0" />
+    <ingredient id="1086" name="ergocalceferol" enummer="" moslims="0" />
+    <ingredient id="1087" name="vitamine E" enummer="" moslims="0" />
+    <ingredient id="1088" name="D-alfa-tocoferol" enummer="" moslims="0" />
+    <ingredient id="1089" name="D-alfa-tocoferylacetaat" enummer="" moslims="0" />
+    <ingredient id="1090" name="DL-alfa-tocoferol" enummer="" moslims="0" />
+    <ingredient id="1091" name="DL-alfa-tocoferylacetaat" enummer="" moslims="0" />
+    <ingredient id="1092" name="vitamine K" enummer="" moslims="0" />
+    <ingredient id="1093" name="fyllochinon" enummer="" moslims="0" />
+    <ingredient id="1094" name="fytomenadion" enummer="" moslims="0" />
+    <ingredient id="1095" name="vitaminemengsels" enummer="" moslims="0" />
+    <ingredient id="1096" name="vitamines (algemeen)" enummer="" moslims="0" />
+    <ingredient id="1097" name="zink" enummer="" moslims="0" />
+    <ingredient id="1098" name="zinkacetaat" enummer="" moslims="0" />
+    <ingredient id="1100" name="zinkgluconaat" enummer="" moslims="0" />
+    <ingredient id="1101" name="zinkglycinaat" enummer="" moslims="0" />
+    <ingredient id="1102" name="zinklactaat" enummer="" moslims="0" />
+    <ingredient id="1103" name="zinkoxide" enummer="" moslims="0" />
+    <ingredient id="1104" name="zinksulfaat" enummer="" moslims="0" />
+    <ingredient id="1105" name="zinkzouten van citroenzuur" enummer="" moslims="0" />
+    <ingredient id="1106" name="bacteriecultures (algemeen)" enummer="" moslims="0" />
+    <ingredient id="1107" name="entworst" enummer="" moslims="0" />
+    <ingredient id="1115" name="opklopmiddelen (algemeen)" enummer="" moslims="0" />
+    <ingredient id="1116" name="schuimeiwit" enummer="" moslims="0" />
+    <ingredient id="1121" name="amoniumchloride" enummer="" moslims="0" />
+    <ingredient id="1122" name="asparaginezuur" enummer="" moslims="0" />
+    <ingredient id="1124" name="cafeïne" enummer="" moslims="0" />
+    <ingredient id="1125" name="L-carnitine" enummer="" moslims="0" />
+    <ingredient id="1126" name="L-carnitine L-tartraat" enummer="" moslims="0" />
+    <ingredient id="1127" name="L-carnitine Mg citraat" enummer="" moslims="0" />
+    <ingredient id="1128" name="CLA" enummer="" moslims="0" />
+    <ingredient id="1129" name="creamkaramel" enummer="" moslims="0" />
+    <ingredient id="1131" name="encapsuleermiddelen" enummer="" moslims="0" />
+    <ingredient id="1132" name="cyclodextrine" enummer="" moslims="0" />
+    <ingredient id="1135" name="maltodextrine" enummer="" moslims="0" />
+    <ingredient id="1136" name="fosfatidylserine" enummer="" moslims="0" />
+    <ingredient id="1137" name="fosfolipiden" enummer="" moslims="0" />
+    <ingredient id="1138" name="gebrande suiker" enummer="" moslims="0" />
+    <ingredient id="1139" name="glyceryltriacetaat" enummer="1518" moslims="0" />
+    <ingredient id="1140" name="glycinaat" enummer="640" moslims="1" />
+    <ingredient id="1143" name="losmiddelen" enummer="" moslims="0" />
+    <ingredient id="1144" name="melksuikerderivaten" enummer="" moslims="0" />
+    <ingredient id="1145" name="oplos- en extractiemiddelen" enummer="" moslims="0" />
+    <ingredient id="1146" name="alcohol" enummer="" moslims="1" />
+    <ingredient id="1148" name="methylethylketon" enummer="" moslims="0" />
+    <ingredient id="1150" name="salmiak" enummer="" moslims="0" />
+    <ingredient id="1151" name="propyleenglycerol" enummer="" moslims="0" />
+    <ingredient id="1152" name="ovalbumine" enummer="" moslims="0" />
+    <ingredient id="1153" name="ovotransferrine" enummer="" moslims="0" />
+    <ingredient id="1154" name="phytosterol(esters)" enummer="" moslims="0" />
+    <ingredient id="1155" name="rook (vloeibaar)" enummer="" moslims="0" />
+    <ingredient id="1156" name="schimmelcultures" enummer="" moslims="0" />
+    <ingredient id="1157" name="snackpellets" enummer="" moslims="0" />
+    <ingredient id="1158" name="talc" enummer="" moslims="0" />
+    <ingredient id="1159" name="taurine" enummer="" moslims="0" />
+    <ingredient id="1160" name="triethylcitraat" enummer="1505" moslims="0" />
+    <ingredient id="1161" name="vanilline" enummer="" moslims="0" />
+    <ingredient id="1162" name="vetpoeder" enummer="" moslims="0" />
+    <ingredient id="1163" name="vetvervangers" enummer="" moslims="0" />
+    <ingredient id="1164" name="vetzuren" enummer="570" moslims="1" />
+    <ingredient id="1165" name="waterstofperoxide" enummer="" moslims="0" />
+    <ingredient id="1167" name="zuurseldestilaat" enummer="" moslims="0" />
+    <ingredient id="1168" name="zuurselpermeaat" enummer="" moslims="0" />
+    <ingredient id="1170" name="aardappelvlokken" enummer="" moslims="0" />
+    <ingredient id="1171" name="advocaat" enummer="" moslims="0" />
+    <ingredient id="1172" name="amandelen" enummer="" moslims="0" />
+    <ingredient id="1173" name="amandelolie" enummer="" moslims="0" />
+    <ingredient id="1174" name="amaretti" enummer="" moslims="0" />
+    <ingredient id="1175" name="anijs" enummer="" moslims="0" />
+    <ingredient id="1176" name="anijsolie" enummer="" moslims="0" />
+    <ingredient id="1177" name="arachide-olie" enummer="" moslims="0" />
+    <ingredient id="1179" name="basterdsuiker" enummer="" moslims="0" />
+    <ingredient id="1183" name="boekweitgrutten" enummer="" moslims="0" />
+    <ingredient id="1184" name="boekweitmeel" enummer="" moslims="0" />
+    <ingredient id="1185" name="boekweitvlokken" enummer="" moslims="0" />
+    <ingredient id="1186" name="boter" enummer="" moslims="0" />
+    <ingredient id="1187" name="boterconcentraat" enummer="" moslims="0" />
+    <ingredient id="1188" name="boterolie" enummer="" moslims="0" />
+    <ingredient id="1189" name="bouillon" enummer="" moslims="0" />
+    <ingredient id="1190" name="broodgrondstoffen" enummer="" moslims="0" />
+    <ingredient id="1191" name="cacaoboter" enummer="" moslims="0" />
+    <ingredient id="1192" name="cacaobotervervangers" enummer="" moslims="0" />
+    <ingredient id="1193" name="cacaofantasie" enummer="" moslims="0" />
+    <ingredient id="1194" name="cacaomassa" enummer="" moslims="0" />
+    <ingredient id="1195" name="cacaomix" enummer="" moslims="0" />
+    <ingredient id="1196" name="cacaopoeder" enummer="" moslims="0" />
+    <ingredient id="1197" name="caramel crumb" enummer="" moslims="0" />
+    <ingredient id="1198" name="caramelstukjes" enummer="" moslims="0" />
+    <ingredient id="1200" name="cashewnoten" enummer="" moslims="0" />
+    <ingredient id="1201" name="champignons" enummer="" moslims="0" />
+    <ingredient id="1202" name="chili" enummer="" moslims="0" />
+    <ingredient id="1203" name="chocolade" enummer="" moslims="0" />
+    <ingredient id="1204" name="chocoladecrumb" enummer="" moslims="0" />
+    <ingredient id="1205" name="chutney" enummer="" moslims="0" />
+    <ingredient id="1206" name="coffeewhitener" enummer="" moslims="0" />
+    <ingredient id="1207" name="colanoot" enummer="" moslims="0" />
+    <ingredient id="1208" name="compounds" enummer="" moslims="0" />
+    <ingredient id="1209" name="confiseursjam" enummer="" moslims="0" />
+    <ingredient id="1210" name="couverture" enummer="" moslims="0" />
+    <ingredient id="1211" name="cranberry's" enummer="" moslims="0" />
+    <ingredient id="1212" name="croutons" enummer="" moslims="0" />
+    <ingredient id="1213" name="deegwaren" enummer="" moslims="0" />
+    <ingredient id="1216" name="droppoeder" enummer="" moslims="0" />
+    <ingredient id="1217" name="eieren" enummer="" moslims="0" />
+    <ingredient id="1222" name="erwteneiwit" enummer="" moslims="0" />
+    <ingredient id="1223" name="erwtenzetmeel" enummer="" moslims="0" />
+    <ingredient id="1224" name="etherische oliën" enummer="" moslims="0" />
+    <ingredient id="1225" name="ethylalcohol" enummer="" moslims="1" />
+    <ingredient id="1226" name="fermentatiemedia" enummer="" moslims="0" />
+    <ingredient id="1227" name="fondant" enummer="" moslims="0" />
+    <ingredient id="1228" name="fosfaat" enummer="" moslims="0" />
+    <ingredient id="1230" name="fruitgranulaat" enummer="" moslims="0" />
+    <ingredient id="1231" name="fruitmixen" enummer="" moslims="0" />
+    <ingredient id="1232" name="fruitnuggets" enummer="" moslims="0" />
+    <ingredient id="1233" name="fruitpasta" enummer="" moslims="0" />
+    <ingredient id="1234" name="fudge blokjes" enummer="" moslims="0" />
+    <ingredient id="1235" name="galactose" enummer="" moslims="0" />
+    <ingredient id="1237" name="gember" enummer="" moslims="0" />
+    <ingredient id="1238" name="gerst" enummer="" moslims="0" />
+    <ingredient id="1239" name="gerstevlokken" enummer="" moslims="0" />
+    <ingredient id="1240" name="gepeldeegierst" enummer="" moslims="0" />
+    <ingredient id="1241" name="gistproducten (gecoat)" enummer="" moslims="0" />
+    <ingredient id="1243" name="glucosestroop" enummer="" moslims="0" />
+    <ingredient id="1245" name="groenten" enummer="" moslims="0" />
+    <ingredient id="1246" name="groentenconcentraat" enummer="" moslims="0" />
+    <ingredient id="1247" name="groentensappen" enummer="" moslims="0" />
+    <ingredient id="1248" name="haver" enummer="" moslims="0" />
+    <ingredient id="1249" name="havermout" enummer="" moslims="0" />
+    <ingredient id="1250" name="hazelnoot" enummer="" moslims="0" />
+    <ingredient id="1251" name="hazelnootkrokant" enummer="" moslims="0" />
+    <ingredient id="1252" name="honing" enummer="" moslims="0" />
+    <ingredient id="1253" name="hop" enummer="" moslims="0" />
+    <ingredient id="1254" name="ijsmixpoeder" enummer="" moslims="0" />
+    <ingredient id="1255" name="ijspoeder" enummer="" moslims="0" />
+    <ingredient id="1257" name="invertsuiker" enummer="" moslims="0" />
+    <ingredient id="1258" name="jeneverbessen" enummer="" moslims="0" />
+    <ingredient id="1259" name="kaas" enummer="" moslims="0" />
+    <ingredient id="1260" name="kaasdekmiddel" enummer="" moslims="0" />
+    <ingredient id="1261" name="kaaspoeder" enummer="" moslims="0" />
+    <ingredient id="1262" name="kaasspeciaalproducten" enummer="" moslims="0" />
+    <ingredient id="1263" name="kaasspreads" enummer="" moslims="0" />
+    <ingredient id="1264" name="kandij" enummer="" moslims="0" />
+    <ingredient id="1265" name="kandijstroop" enummer="" moslims="0" />
+    <ingredient id="1266" name="ketjap" enummer="" moslims="0" />
+    <ingredient id="1267" name="knoflook" enummer="" moslims="0" />
+    <ingredient id="1268" name="koffie" enummer="" moslims="0" />
+    <ingredient id="1271" name="kokospoeder" enummer="" moslims="0" />
+    <ingredient id="1272" name="komijn" enummer="" moslims="0" />
+    <ingredient id="1273" name="kruiden" enummer="" moslims="0" />
+    <ingredient id="1274" name="kruidenextract" enummer="" moslims="0" />
+    <ingredient id="1275" name="kwarkpoeder" enummer="" moslims="0" />
+    <ingredient id="1276" name="lactose" enummer="" moslims="0" />
+    <ingredient id="1277" name="levertraan" enummer="" moslims="0" />
+    <ingredient id="1278" name="lijnzaad, bruin" enummer="" moslims="0" />
+    <ingredient id="1279" name="lupinenmeel" enummer="" moslims="0" />
+    <ingredient id="1280" name="maanzaad (blauw)" enummer="" moslims="0" />
+    <ingredient id="1281" name="maïsbloem" enummer="" moslims="0" />
+    <ingredient id="1282" name="maïsgries" enummer="" moslims="0" />
+    <ingredient id="1283" name="maïsmeel" enummer="" moslims="0" />
+    <ingredient id="1284" name="maisvlokken" enummer="" moslims="0" />
+    <ingredient id="1285" name="maltose" enummer="" moslims="0" />
+    <ingredient id="1286" name="margarine" enummer="" moslims="0" />
+    <ingredient id="1287" name="mayonaise" enummer="" moslims="0" />
+    <ingredient id="1289" name="melasse" enummer="" moslims="0" />
+    <ingredient id="1290" name="melkcalcium" enummer="" moslims="0" />
+    <ingredient id="1292" name="melkpoeder" enummer="" moslims="0" />
+    <ingredient id="1293" name="melkproducten" enummer="" moslims="0" />
+    <ingredient id="1294" name="melksuiker" enummer="" moslims="0" />
+    <ingredient id="1296" name="melkzout" enummer="" moslims="0" />
+    <ingredient id="1297" name="meringue" enummer="" moslims="0" />
+    <ingredient id="1298" name="mierikswortel" enummer="" moslims="0" />
+    <ingredient id="1299" name="monosacchariden" enummer="" moslims="0" />
+    <ingredient id="1300" name="mosterd" enummer="" moslims="0" />
+    <ingredient id="1301" name="mout" enummer="" moslims="0" />
+    <ingredient id="1304" name="musketzaad" enummer="" moslims="0" />
+    <ingredient id="1305" name="natural food &amp; beverage" enummer="" moslims="0" />
+    <ingredient id="1306" name="noten" enummer="" moslims="0" />
+    <ingredient id="1307" name="nougat" enummer="" moslims="0" />
+    <ingredient id="1308" name="oliën en vetten" enummer="" moslims="0" />
+    <ingredient id="1310" name="olijfolie in poedervorm" enummer="" moslims="0" />
+    <ingredient id="1311" name="olijven" enummer="" moslims="0" />
+    <ingredient id="1312" name="omeletreepjes" enummer="" moslims="0" />
+    <ingredient id="1313" name="palmpitolie" enummer="" moslims="0" />
+    <ingredient id="1314" name="paneermeel" enummer="" moslims="0" />
+    <ingredient id="1315" name="pecannoten" enummer="" moslims="0" />
+    <ingredient id="1316" name="pectinezuur" enummer="" moslims="0" />
+    <ingredient id="1317" name="pesto" enummer="" moslims="0" />
+    <ingredient id="1318" name="gedroogde peulvruchten" enummer="" moslims="0" />
+    <ingredient id="1319" name="gekookte peulvruchten" enummer="" moslims="0" />
+    <ingredient id="1320" name="pindakrokant" enummer="" moslims="0" />
+    <ingredient id="1321" name="pinda's" enummer="" moslims="0" />
+    <ingredient id="1322" name="pistachenoten" enummer="" moslims="0" />
+    <ingredient id="1323" name="pizzatopping" enummer="" moslims="0" />
+    <ingredient id="1325" name="gepelde pompoenpitten" enummer="" moslims="0" />
+    <ingredient id="1326" name="raapolie" enummer="" moslims="0" />
+    <ingredient id="1327" name="rijst" enummer="" moslims="0" />
+    <ingredient id="1328" name="rijstmeel" enummer="" moslims="0" />
+    <ingredient id="1329" name="rijstparels" enummer="" moslims="0" />
+    <ingredient id="1330" name="rijstvlokken" enummer="" moslims="0" />
+    <ingredient id="1331" name="rijstzetmeel" enummer="" moslims="0" />
+    <ingredient id="1332" name="roggevlokken" enummer="" moslims="0" />
+    <ingredient id="1333" name="room" enummer="" moslims="0" />
+    <ingredient id="1334" name="rozijnen" enummer="" moslims="0" />
+    <ingredient id="1335" name="suiker" enummer="" moslims="0" />
+    <ingredient id="1336" name="sambal" enummer="" moslims="0" />
+    <ingredient id="1337" name="sauzen" enummer="" moslims="0" />
+    <ingredient id="1339" name="sesammeel" enummer="" moslims="0" />
+    <ingredient id="1340" name="sesamzaad" enummer="" moslims="0" />
+    <ingredient id="1341" name="snackpallets" enummer="" moslims="0" />
+    <ingredient id="1344" name="soja-isoflavonconcentraten" enummer="" moslims="0" />
+    <ingredient id="1345" name="sojakiemconcentraten" enummer="" moslims="0" />
+    <ingredient id="1346" name="sojaolie" enummer="" moslims="0" />
+    <ingredient id="1347" name="sojaproducten" enummer="" moslims="0" />
+    <ingredient id="1348" name="sorghum" enummer="" moslims="0" />
+    <ingredient id="1349" name="specerijen" enummer="" moslims="0" />
+    <ingredient id="1350" name="specerij-extract" enummer="" moslims="0" />
+    <ingredient id="1351" name="spijs" enummer="" moslims="0" />
+    <ingredient id="1352" name="spijsaroma" enummer="" moslims="0" />
+    <ingredient id="1354" name="stropen" enummer="" moslims="0" />
+    <ingredient id="1355" name="suikers" enummer="" moslims="0" />
+    <ingredient id="1356" name="tapiocameel" enummer="" moslims="0" />
+    <ingredient id="1358" name="tarwekiemen" enummer="" moslims="0" />
+    <ingredient id="1359" name="tarwekiemolie" enummer="" moslims="0" />
+    <ingredient id="1360" name="tarwemeel" enummer="" moslims="0" />
+    <ingredient id="1361" name="tarwevlokken" enummer="" moslims="0" />
+    <ingredient id="1362" name="tomatenpoeder" enummer="" moslims="0" />
+    <ingredient id="1363" name="tomatenpuree" enummer="" moslims="0" />
+    <ingredient id="1364" name="truffelstukjes" enummer="" moslims="0" />
+    <ingredient id="1365" name="uienpoeder" enummer="" moslims="0" />
+    <ingredient id="1366" name="vanillesuiker" enummer="" moslims="0" />
+    <ingredient id="1367" name="veldbonenmeel" enummer="" moslims="0" />
+    <ingredient id="1368" name="vendingproducten" enummer="" moslims="0" />
+    <ingredient id="1369" name="vispoeder" enummer="" moslims="0" />
+    <ingredient id="1370" name="vlapoeder" enummer="" moslims="0" />
+    <ingredient id="1371" name="gedroogde vleesproducten" enummer="" moslims="0" />
+    <ingredient id="1373" name="vruchten (geconfijt)" enummer="" moslims="0" />
+    <ingredient id="1374" name="vruchtenrasp" enummer="" moslims="0" />
+    <ingredient id="1376" name="vruchtenpoeders" enummer="" moslims="0" />
+    <ingredient id="1377" name="vruchtenproducten (samengesteld)" enummer="" moslims="0" />
+    <ingredient id="1378" name="vruchtenpurees" enummer="" moslims="0" />
+    <ingredient id="1379" name="vruchtensapconcentraten" enummer="" moslims="0" />
+    <ingredient id="1380" name="vruchtensappen" enummer="" moslims="0" />
+    <ingredient id="1381" name="vruchtensiropen" enummer="" moslims="0" />
+    <ingredient id="1382" name="walnoten" enummer="" moslims="0" />
+    <ingredient id="1385" name="wijnazijn" enummer="" moslims="0" />
+    <ingredient id="1386" name="wortelpoeder" enummer="" moslims="0" />
+    <ingredient id="1387" name="yoghurtpoeder" enummer="" moslims="0" />
+    <ingredient id="1388" name="yoghurtstukjes" enummer="" moslims="0" />
+    <ingredient id="1390" name="zoethoutpoeder" enummer="" moslims="0" />
+    <ingredient id="1391" name="zonnebloemolie" enummer="" moslims="0" />
+    <ingredient id="1392" name="zonnebloempitten (gepeld)" enummer="" moslims="0" />
+    <ingredient id="1394" name="zuivelspeciaalproducten" enummer="" moslims="0" />
+    <ingredient id="1395" name="zuivelvervangers" enummer="" moslims="0" />
+    <ingredient id="1396" name="plantaardige olie en vet" enummer="" moslims="0" />
+    <ingredient id="1397" name="betanine" enummer="162" moslims="0" />
+    <ingredient id="1398" name="bixine" enummer="160b" moslims="0" />
+    <ingredient id="1399" name="capsanthine" enummer="160c" moslims="0" />
+    <ingredient id="1400" name="indigokarmijn" enummer="132" moslims="0" />
+    <ingredient id="1401" name="karmijnzuur" enummer="120" moslims="1" />
+    <ingredient id="1404" name="alfacaroteen" enummer="" moslims="0" />
+    <ingredient id="1405" name="ijzerhydroxiden" enummer="172" moslims="0" />
+    <ingredient id="1406" name="kopercomplexen van chlorofylinen" enummer="141" moslims="0" />
+    <ingredient id="1407" name="cochenillerood A" enummer="124" moslims="0" />
+    <ingredient id="1408" name="lactoflavine" enummer="101" moslims="0" />
+    <ingredient id="1409" name="oranjegeel S" enummer="110" moslims="0" />
+    <ingredient id="1410" name="pimaricine" enummer="235" moslims="0" />
+    <ingredient id="1413" name="borax" enummer="285" moslims="0" />
+    <ingredient id="1414" name="kaliumzouten van vetzuren" enummer="470a" moslims="1" />
+    <ingredient id="1415" name="visgelatine" enummer="" moslims="0" />
+    <ingredient id="1416" name="gistautolysaatextract" enummer="" moslims="0" />
+    <ingredient id="1417" name="appelzuur (gecoat)" enummer="296" moslims="0" />
+    <ingredient id="1418" name="azijnzuur" enummer="260" moslims="0" />
+    <ingredient id="1419" name="citroenzuur (gecoat)" enummer="330" moslims="0" />
+    <ingredient id="1421" name="glucono-delta-lacton (gecoat)" enummer="575" moslims="0" />
+    <ingredient id="1422" name="melkzuur (gecoat)" enummer="270" moslims="0" />
+    <ingredient id="1423" name="tin-1-chloride" enummer="512" moslims="0" />
+    <ingredient id="1432" name="natriumglycinaat" enummer="640" moslims="1" />
+    <ingredient id="1433" name="kiezelzuur" enummer="551" moslims="0" />
+    <ingredient id="1434" name="natriumzout van cyclaamzuur" enummer="952" moslims="0" />
+    <ingredient id="1435" name="cyclamaat" enummer="952" moslims="0" />
+    <ingredient id="1436" name="natriumcyclamaat" enummer="952" moslims="0" />
+    <ingredient id="1437" name="calciumcyclamaat" enummer="952" moslims="0" />
+    <ingredient id="1438" name="isomaltitol" enummer="953" moslims="0" />
+    <ingredient id="1439" name="maltitolstroop" enummer="965" moslims="0" />
+    <ingredient id="1440" name="natriumzout van sacharine" enummer="954" moslims="0" />
+    <ingredient id="1441" name="kaliumzout van sacharine" enummer="954" moslims="0" />
+    <ingredient id="1442" name="calciumzout van sacharine" enummer="954" moslims="0" />
+    <ingredient id="1443" name="sorbitolstroop" enummer="420" moslims="0" />
+    <ingredient id="1444" name="samengesteld bakpoeder" enummer="" moslims="0" />
+    <ingredient id="1445" name="gistproducten" enummer="" moslims="0" />
+    <ingredient id="1446" name="bijenwas (wit)" enummer="901" moslims="0" />
+    <ingredient id="1447" name="bijenwas (geel)" enummer="901" moslims="0" />
+    <ingredient id="1448" name="hemi-cellulase" enummer="" moslims="0" />
+    <ingredient id="1450" name="L-cysteïne" enummer="920" moslims="1" />
+    <ingredient id="1451" name="lecithine in poedervorm" enummer="322" moslims="0" />
+    <ingredient id="1456" name="levocarnitine" enummer="" moslims="0" />
+    <ingredient id="1457" name="geconjugeerd linolzuur" enummer="" moslims="0" />
+    <ingredient id="1458" name="natriumglycanaat" enummer="640" moslims="1" />
+    <ingredient id="1459" name="hout" enummer="" moslims="0" />
+    <ingredient id="1460" name="phytosterol" enummer="" moslims="0" />
+    <ingredient id="1461" name="ammoniumchloride (gecoat)" enummer="" moslims="0" />
+    <ingredient id="1462" name="elementair ijzer" enummer="" moslims="0" />
+    <ingredient id="1463" name="cholinezuur" enummer="1000" moslims="1" />
+    <ingredient id="1464" name="lanoline" enummer="913" moslims="0" />
+    <ingredient id="1465" name="stearinezuur" enummer="570" moslims="1" />
+    <ingredient id="1466" name="omega-3-vetzuren" enummer="" moslims="0" />
+    <ingredient id="1467" name="koolstof" enummer="153" moslims="0" />
+    <ingredient id="1468" name="mierenzuur" enummer="" moslims="0" />
+    <ingredient id="1470" name="vitamine B3" enummer="" moslims="0" />
+    <ingredient id="1471" name="ureum" enummer="927b" moslims="0" />
+    <ingredient id="1472" name="azijngist" enummer="" moslims="0" />
+    <ingredient id="1473" name="boterolie in poedervorm" enummer="" moslims="0" />
+    <ingredient id="1474" name="banketgrondstoffen" enummer="" moslims="0" />
+    <ingredient id="1476" name="instant dessertpoeder" enummer="" moslims="0" />
+    <ingredient id="1477" name="drop" enummer="" moslims="0" />
+    <ingredient id="1478" name="functionele eiwitten" enummer="" moslims="0" />
+    <ingredient id="1479" name="gepelde gerst" enummer="" moslims="0" />
+    <ingredient id="1480" name="gist (gecoat)" enummer="" moslims="0" />
+    <ingredient id="1481" name="gistextract" enummer="" moslims="0" />
+    <ingredient id="1482" name="glucose" enummer="" moslims="0" />
+    <ingredient id="1483" name="gedroogde groenten" enummer="" moslims="0" />
+    <ingredient id="1484" name="gepelde haver" enummer="" moslims="0" />
+    <ingredient id="1485" name="koffieextracten" enummer="" moslims="0" />
+    <ingredient id="1486" name="kokosvet" enummer="" moslims="0" />
+    <ingredient id="1487" name="kokosolie" enummer="" moslims="0" />
+    <ingredient id="1488" name="kokosvet in poedervorm" enummer="" moslims="0" />
+    <ingredient id="1489" name="kokosolie in poedervorm" enummer="" moslims="0" />
+    <ingredient id="1490" name="kokosolieextracten" enummer="" moslims="0" />
+    <ingredient id="1491" name="kokosvetextracten" enummer="" moslims="0" />
+    <ingredient id="1492" name="hittebehandeld meel" enummer="" moslims="0" />
+    <ingredient id="1493" name="notenvullingen" enummer="" moslims="0" />
+    <ingredient id="1494" name="oliën en vetten in poedervorm" enummer="" moslims="0" />
+    <ingredient id="1495" name="olijfolie" enummer="" moslims="0" />
+    <ingredient id="1496" name="pompoenpitten" enummer="" moslims="0" />
+    <ingredient id="1497" name="raapolie in poedervorm" enummer="" moslims="0" />
+    <ingredient id="1498" name="crispies" enummer="" moslims="0" />
+    <ingredient id="1499" name="room in poedervorm" enummer="" moslims="0" />
+    <ingredient id="1500" name="saccharose" enummer="" moslims="0" />
+    <ingredient id="1501" name="sojaolie in poedervorm" enummer="" moslims="0" />
+    <ingredient id="1502" name="vleesproducten" enummer="" moslims="0" />
+    <ingredient id="1503" name="vruchtenproducten" enummer="" moslims="0" />
+    <ingredient id="1504" name="zonnebloemolie in poedervorm" enummer="" moslims="0" />
+    <ingredient id="1505" name="zuurteregelaars (gecoat)" enummer="" moslims="0" />
+    <ingredient id="1508" name="dinatriumdifosfaat" enummer="450I" moslims="0" />
+    <ingredient id="1509" name="trinatriumdifosfaat" enummer="450II" moslims="0" />
+    <ingredient id="1510" name="tetranatriumpyrofosfaat" enummer="450III" moslims="0" />
+    <ingredient id="1511" name="tetrakaliumpyrofosfaat" enummer="450V" moslims="0" />
+    <ingredient id="1512" name="calciumdiwaterstofdifosfaat" enummer="450VI" moslims="0" />
+    <ingredient id="1513" name="dinatriumpyrofosfaat" enummer="450I" moslims="0" />
+    <ingredient id="1514" name="geharde plantaardige vetten" enummer="" moslims="0" />
+    <ingredient id="1515" name="hazelnoten" enummer="" moslims="0" />
+    <ingredient id="1516" name="volle melkpoeder" enummer="" moslims="0" />
+    <ingredient id="1517" name="magere cacao" enummer="" moslims="0" />
+    <ingredient id="1518" name="magere melkpoeder" enummer="" moslims="0" />
+    <ingredient id="1519" name="sojameel" enummer="" moslims="0" />
+    <ingredient id="1520" name="plantaardige olie" enummer="" moslims="0" />
+    <ingredient id="1521" name="eigeelpoeder" enummer="" moslims="0" />
+    <ingredient id="1522" name="sojalecithine" enummer="322" moslims="0" />
+    <ingredient id="1528" name="aroma's (algemeen)" enummer="" moslims="0" />
+    <ingredient id="1529" name="dextrose" enummer="" moslims="0" />
+    <ingredient id="1532" name="aardappelzetmeel" enummer="" moslims="0" />
+    <ingredient id="1533" name="aardbeien" enummer="" moslims="0" />
+    <ingredient id="1534" name="propylester van galzuur" enummer="310" moslims="0" />
+    <ingredient id="1535" name="aluminiumstearaat" enummer="573" moslims="1" />
+    <ingredient id="1536" name="ammoniumstearaat" enummer="571" moslims="1" />
+    <ingredient id="1537" name="beendermeel" enummer="542" moslims="1" />
+    <ingredient id="1538" name="beendermeelfosfaat" enummer="542" moslims="1" />
+    <ingredient id="1539" name="collageen" enummer="" moslims="1" />
+    <ingredient id="1540" name="calciumribonucleotiden" enummer="634" moslims="1" />
+    <ingredient id="1541" name="calciumstearoyllactaat" enummer="482" moslims="1" />
+    <ingredient id="1542" name="L-cystine" enummer="921" moslims="1" />
+    <ingredient id="1543" name="ethylmaltol" enummer="637" moslims="0" />
+    <ingredient id="1544" name="geharde vetten" enummer="" moslims="1" />
+    <ingredient id="1545" name="eilecithine" enummer="322" moslims="0" />
+    <ingredient id="1546" name="magnesiumstearaat" enummer="572" moslims="1" />
+    <ingredient id="1547" name="maltol" enummer="636" moslims="0" />
+    <ingredient id="1548" name="mengsel van glycerol- en propyleenglycolesters met melkzuur en vetzuren" enummer="478" moslims="1" />
+    <ingredient id="1549" name="natriumribonucleotiden" enummer="635" moslims="1" />
+    <ingredient id="1550" name="natriumstearoyllactaat" enummer="481" moslims="1" />
+    <ingredient id="1551" name="oxystearine" enummer="387" moslims="1" />
+    <ingredient id="1552" name="stearylcitraat" enummer="484" moslims="1" />
+    <ingredient id="1553" name="suikeresters van vetzuren" enummer="473" moslims="1" />
+    <ingredient id="1555" name="yoghurt" enummer="" moslims="0" />
+    <ingredient id="1556" name="water" enummer="" moslims="0" />
+    <ingredient id="1557" name="droge melkbestanddelen" enummer="" moslims="0" />
+    <ingredient id="1558" name="kaneel" enummer="" moslims="0" />
+    <ingredient id="1559" name="magere cacaopoeder" enummer="" moslims="0" />
+    <ingredient id="1560" name="aroma" enummer="" moslims="0" />
+    <ingredient id="1562" name="plantaardige oliën en vetten" enummer="" moslims="0" />
+    <ingredient id="1572" name="aardappelen" enummer="" moslims="0" />
+    <ingredient id="1573" name="knoflookpoeder" enummer="" moslims="0" />
+    <ingredient id="1574" name="sinaasappelmarmelade" enummer="" moslims="0" />
+    <ingredient id="1575" name="glucose-fructosestroop" enummer="" moslims="0" />
+    <ingredient id="1576" name="sinaasappelpulp" enummer="" moslims="0" />
+    <ingredient id="1577" name="geconcentreerd sinaasappelsap" enummer="" moslims="0" />
+    <ingredient id="1578" name="equivalent sinaasappelsap" enummer="" moslims="0" />
+    <ingredient id="1579" name="natuurlijk sinaasappelaroma" enummer="" moslims="0" />
+    <ingredient id="1580" name="plantaardig vet" enummer="" moslims="0" />
+    <ingredient id="1581" name="tarwebloem" enummer="" moslims="0" />
+    <ingredient id="1582" name="ammoniumwaterstofcarbonaat" enummer="503" moslims="0" />
+    <ingredient id="1583" name="vanille" enummer="" moslims="0" />
+    <ingredient id="1584" name="roompoeder" enummer="" moslims="0" />
+    <ingredient id="1585" name="roomboter" enummer="" moslims="0" />
+    <ingredient id="1586" name="suikerstroop" enummer="" moslims="0" />
+    <ingredient id="1587" name="lupinemeel" enummer="" moslims="0" />
+    <ingredient id="1588" name="scharreleieren" enummer="" moslims="0" />
+    <ingredient id="1589" name="gemodificeerd aardappelzetmeel" enummer="" moslims="0" />
+    <ingredient id="1590" name="gemengde specerijen" enummer="" moslims="0" />
+    <ingredient id="1591" name="alphacaroteen" enummer="160a" moslims="0" />
+    <ingredient id="1592" name="natuurlijk caroteen" enummer="160a" moslims="0" />
+    <ingredient id="1593" name="volkoren" enummer="" moslims="0" />
+    <ingredient id="1594" name="havervlokken" enummer="" moslims="0" />
+    <ingredient id="1595" name="volkorentarwemeel" enummer="" moslims="0" />
+    <ingredient id="1596" name="gerstemeel" enummer="" moslims="0" />
+    <ingredient id="1597" name="magere yoghurtpoeder" enummer="" moslims="0" />
+    <ingredient id="1598" name="bosvruchten" enummer="" moslims="0" />
+    <ingredient id="1599" name="braam" enummer="" moslims="0" />
+    <ingredient id="1600" name="framboos" enummer="" moslims="0" />
+    <ingredient id="1601" name="zwarte bes" enummer="" moslims="0" />
+    <ingredient id="1602" name="botervet" enummer="" moslims="0" />
+    <ingredient id="1603" name="gedemineraliseerde weipoeder" enummer="" moslims="0" />
+    <ingredient id="1604" name="natuurlijke aroma&apos;s" enummer="" moslims="0" />
+    <ingredient id="1605" name="slagroom" enummer="" moslims="0" />
+    <ingredient id="1606" name="salmiakzout" enummer="" moslims="0" />
+    <ingredient id="1607" name="zoethoutwortelextract" enummer="" moslims="0" />
+    <ingredient id="1608" name="zonnebloemlecithine" enummer="322" moslims="0" />
+    <ingredient id="1609" name="visolie" enummer="" moslims="0" />
+    <ingredient id="1610" name="appelsap uit geconcentreerd appelsap" enummer="" moslims="0" />
+    <ingredient id="1611" name="rood druivensap" enummer="" moslims="0" />
+    <ingredient id="1612" name="grapefruitsap uit geconcentreerd grapefruitsap" enummer="" moslims="0" />
+    <ingredient id="1613" name="sinaasappelsap uit geconcentreerd sinaasappelsap" enummer="" moslims="0" />
+    <ingredient id="1614" name="tomatensap" enummer="" moslims="0" />
+    <ingredient id="1615" name="selderijsap" enummer="" moslims="0" />
+    <ingredient id="1616" name="wortelsap" enummer="" moslims="0" />
+    <ingredient id="1617" name="peterseliesap" enummer="" moslims="0" />
+    <ingredient id="1618" name="bietensap" enummer="" moslims="0" />
+    <ingredient id="1619" name="citroensap" enummer="" moslims="0" />
+    <ingredient id="1620" name="spinaziesap" enummer="" moslims="0" />
+    <ingredient id="1621" name="slasap" enummer="" moslims="0" />
+    <ingredient id="1622" name="paprikasap" enummer="" moslims="0" />
+    <ingredient id="1623" name="uiensap" enummer="" moslims="0" />
+    <ingredient id="1624" name="lavassap" enummer="" moslims="0" />
+    <ingredient id="1625" name="basilicumsap" enummer="" moslims="0" />
+    <ingredient id="1626" name="vruchtensap uit geconcentreerd vruchtensap" enummer="" moslims="0" />
+    <ingredient id="1627" name="tomaten" enummer="" moslims="0" />
+    <ingredient id="1628" name="eigeel" enummer="" moslims="0" />
+    <ingredient id="1629" name="maïs" enummer="" moslims="0" />
+    <ingredient id="1630" name="pectine" enummer="440" moslims="0" />
+    <ingredient id="1631" name="volle melk" enummer="" moslims="0" />
+    <ingredient id="1632" name="geconcentreerde magere melk" enummer="" moslims="0" />
+    <ingredient id="1633" name="boerenjongens" enummer="" moslims="1" />
+    <ingredient id="1634" name="brandewijn" enummer="" moslims="1" />
+    <ingredient id="1635" name="volle yoghurt" enummer="" moslims="0" />
+    <ingredient id="1636" name="bosvruchtensaus" enummer="" moslims="0" />
+    <ingredient id="1637" name="melkchocoladestukjes" enummer="" moslims="0" />
+    <ingredient id="1638" name="gerehydrateerde magere melk" enummer="" moslims="0" />
+    <ingredient id="1639" name="gemalen vanillestokjes" enummer="" moslims="0" />
+    <ingredient id="1640" name="tarwevezels" enummer="" moslims="0" />
+    <ingredient id="1641" name="kokos" enummer="" moslims="0" />
+    <ingredient id="1642" name="tarwezetmeel" enummer="" moslims="0" />
+    <ingredient id="1643" name="citroenrasp" enummer="" moslims="0" />
+    <ingredient id="1644" name="mono- en diglyceriden van vetzuren (plantaardig)" enummer="471" moslims="0" />
+    <ingredient id="1645" name="groene thee" enummer="" moslims="0" />
+    <ingredient id="1646" name="cranberrystukjes" enummer="" moslims="0" />
+    <ingredient id="1647" name="druivensuiker" enummer="" moslims="0" />
+    <ingredient id="1648" name="kippenei eiwitpoeder" enummer="" moslims="0" />
+    <ingredient id="1649" name="magere melk" enummer="" moslims="0" />
+    <ingredient id="1650" name="magere yoghurt" enummer="" moslims="0" />
+    <ingredient id="1651" name="melkbestanddelen" enummer="" moslims="0" />
+    <ingredient id="1652" name="guargom" enummer="412" moslims="0" />
+    <ingredient id="1653" name="roggemeel" enummer="" moslims="0" />
+    <ingredient id="1654" name="volkoren roggemeel" enummer="" moslims="0" />
+    <ingredient id="1655" name="roggezemelen" enummer="" moslims="0" />
+    <ingredient id="1656" name="gerstmout" enummer="" moslims="0" />
+    <ingredient id="1657" name="perenpuree" enummer="" moslims="0" />
+    <ingredient id="1658" name="witte asperge" enummer="" moslims="0" />
+    <ingredient id="1659" name="groene asperge" enummer="" moslims="0" />
+    <ingredient id="1660" name="maïszetmeel" enummer="" moslims="0" />
+    <ingredient id="1661" name="rozemarijn" enummer="" moslims="0" />
+    <ingredient id="1662" name="tarwegluten" enummer="" moslims="0" />
+    <ingredient id="1663" name="perzik" enummer="" moslims="0" />
+</ingredienten>

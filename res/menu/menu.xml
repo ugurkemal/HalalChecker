@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/item01" android:title="Probably appropriate" android:menuCategory="container" android:orderInCategory="2" android:icon="@drawable/ic_menu_appr"></item>
+<item android:id="@+id/item02" android:title="Probably not appropriate" android:menuCategory="container" android:orderInCategory="3" android:icon="@drawable/ic_menu_notappr"></item>
+<item android:id="@+id/item03" android:title="All" android:menuCategory="container" android:orderInCategory="1"></item>
+<item android:id="@+id/item04" android:title="About" android:menuCategory="system" android:icon="@drawable/ic_menu_about"></item>
+<item android:id="@+id/item05" android:title="Close" android:menuCategory="system" android:icon="@drawable/ic_menu_close"></item>
+</menu>

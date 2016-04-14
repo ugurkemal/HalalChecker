@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="LargeTitleTheme">
+        <item name="android:windowTitleBackgroundStyle">@android:color/white</item>
+        <item name="android:background">@android:color/white</item>
+        
+    </style>
+</resources>
